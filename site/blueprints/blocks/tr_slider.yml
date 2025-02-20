@@ -1,0 +1,50 @@
+name: Image slideshow
+preview: fields
+wysiwyg: true
+icon: file-image
+fields:
+  aspectRatioHorizontal:
+    type: number
+    label: Aspect ratio horizontal
+    default: 16
+    required: true
+    help: "The '16' in 16/9"
+    width: 1/4
+  aspectRatioVertical:
+    type: number
+    label: Aspect ratio vertical
+    default: 9
+    required: true
+    help: "The '9' in 16/9"
+    width: 1/4
+  width:
+    type: toggles
+    label: Width
+    options:
+      full: "Full"
+      grid100: "Grid width"
+      grid66: "2/3 Grid"
+      grid50: "1/2 Grid"
+    default: grid
+    required: true
+    width: 1/2
+  imgs:
+    type: files
+    label: Image
+    min: 1
+    layout: cards
+    size: tiny
+    image:
+      ratio: 1/1
+      back: white
+      cover: false
+  mode:
+    type: toggles
+    label: Change slide
+    options:
+      auto3: "Every 3 seconds"
+      auto5: "Every 5 seconds"
+      manual: "Manually"
+    default: auto3
+    required: true
+    # width: 1/2

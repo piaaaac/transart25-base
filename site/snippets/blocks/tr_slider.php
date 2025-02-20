@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @param $imgs                   - Kirby Files
  * @param $aspectRatioHorizontal  - Float
@@ -13,10 +14,10 @@ $aspectHori = $block->aspectRatioHorizontal()->toFloat();
 $aspectVert = $block->aspectRatioVertical()->toFloat();
 $ratio = $aspectHori / $aspectVert;
 $thumbSettings = [ // Based on width name
-  "full"    => ["width" => 1400, "height" => 1400/$ratio, "quality" => 70, "crop" => "center", "format" => "webp"],
-  "grid100" => ["width" => 1024, "height" => 1024/$ratio, "quality" => 80, "crop" => "center", "format" => "webp"],
-  "grid66"  => ["width" => 1024, "height" => 1024/$ratio, "quality" => 80, "crop" => "center", "format" => "webp"],
-  "grid50"  => ["width" => 1024, "height" => 1024/$ratio, "quality" => 80, "crop" => "center", "format" => "webp"],
+  "full"    => ["width" => 1400, "height" => 1400 / $ratio, "quality" => 70, "crop" => "center", "format" => "webp"],
+  "grid100" => ["width" => 1024, "height" => 1024 / $ratio, "quality" => 80, "crop" => "center", "format" => "webp"],
+  "grid66"  => ["width" => 1024, "height" => 1024 / $ratio, "quality" => 80, "crop" => "center", "format" => "webp"],
+  "grid50"  => ["width" => 1024, "height" => 1024 / $ratio, "quality" => 80, "crop" => "center", "format" => "webp"],
 ];
 $thumbOptions = $thumbSettings[$widthName];
 $images = [];
@@ -67,24 +68,24 @@ if (isset($options)) {
 ?>
 
 <style>
-.keen-slider .slide {
-  aspect-ratio: <?= $ratio ?>;
-  background-size: cover;
-  background-position: center center;
-  /* background-image: url("https://freight.cargo.site/w/1024/q/94/i/2513d937e7576f3c7a71bdfd1d15a82b156e3b5425b2b1d8519d4cee598a1bf2/tumblr_ofy6xbMJmJ1vjn0soo1_1280.jpg"); */
-}
+  .keen-slider .slide {
+    aspect-ratio: <?= $ratio ?>;
+    background-size: cover;
+    background-position: center center;
+    /* background-image: url("https://freight.cargo.site/w/1024/q/94/i/2513d937e7576f3c7a71bdfd1d15a82b156e3b5425b2b1d8519d4cee598a1bf2/tumblr_ofy6xbMJmJ1vjn0soo1_1280.jpg"); */
+  }
 </style>
 
-<?php 
+<?php
 // Get the slider markup to include in the grid element as needded
-ob_start(); 
+ob_start();
 ?>
-  <div id="abc-slider-<?= $rand ?>" class="keen-slider">
-    <?php foreach ($imageUrls as $url): ?>
-      <div class="keen-slider__slide slide" style="background-image: url('<?= $url ?>');"></div>
-    <?php endforeach ?>
-  </div>
-<?php 
+<div id="abc-slider-<?= $rand ?>" class="keen-slider">
+  <?php foreach ($imageUrls as $url): ?>
+    <div class="keen-slider__slide slide" style="background-image: url('<?= $url ?>');"></div>
+  <?php endforeach ?>
+</div>
+<?php
 $sliderMarkup = ob_get_clean();
 ?>
 
@@ -121,29 +122,29 @@ $sliderMarkup = ob_get_clean();
 <script>
   // https://keen-slider.io/docs
   // KeenSlider needs a container as first argument, which could be a css selector string, a HTMLElement or a function that returns a HTML element or css selector string. Optionally, you can pass Options and Event hooks as second argument. Plugins can be passed as third argument.KeenSlider returns some Properties for further actions
-  
+
   var millis = <?= JSON_encode($milliseconds) ?>;
   var autoplay = (millis == null) ? false : true;
-  var slider = new KeenSlider (
-    "#abc-slider-<?= $rand ?>", 
-    {
+  var slider = new KeenSlider(
+    "#abc-slider-<?= $rand ?>", {
       loop: true,
-      created: function () {
+      created: function() {
         console.log('created')
       },
     },
-    
-    <?php 
+
+    <?php
     // disable this block to turn off autoplay
     if ($autoplay):
-    ?>
-      [
+    ?>[
         (slider) => {
           let timeout
           let mouseOver = false
+
           function clearNextTimeout() {
             clearTimeout(timeout)
           }
+
           function nextTimeout() {
             clearTimeout(timeout)
             if (mouseOver) return
@@ -170,4 +171,3 @@ $sliderMarkup = ob_get_clean();
     <?php endif ?>
   );
 </script>
-

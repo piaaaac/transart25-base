@@ -2,7 +2,7 @@ Title: Contact
 
 ----
 
-Contentblocks: [{"content":{"colnum":"col1","text1a":"## Contact\n\nTransart Festival\nDantestr. 28 Via Dante\nBozen BZ 39100\nC.F. 02280130218\nSDI code W7YVJK9\nT: 0039 0471 665369\nE: info@transart.it","text2a":"","text2b":"","text3a":"","text3b":"","text3c":"","marginbottom":"true"},"id":"32b7cf50-f090-4dc2-b8b8-4d6e45f6fc41","isHidden":false,"type":"t23_multicolumns"}]
+Contentblocks: [{"content":{"colnum":"col1","text1a":"## Contact\n\nTransart Festival\nDantestr. 28 Via Dante\nBozen BZ 39100\nC.F. 02280130218\nSDI code W7YVJK9\nT: 0039 0471 665369\nE: info@transart.it","text2a":"","text2b":"","text3a":"","text3b":"","text3c":"","marginbottom":"true"},"id":"32b7cf50-f090-4dc2-b8b8-4d6e45f6fc41","isHidden":false,"type":"multicolumns"}]
 
 ----
 

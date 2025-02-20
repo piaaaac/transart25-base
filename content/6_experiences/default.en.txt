@@ -6,7 +6,7 @@ Intro: The 23rd edition of Transart also includes a variety of *EXPERIENCES*, *f
 
 ----
 
-Contentblocks: [{"content":{"spacesize":"custom","custommargin":"-20px"},"id":"645c3a74-613c-4666-9484-569f14c35a6d","isHidden":false,"type":"t23_space"},{"content":{"btntext":"Browse all EXPERIENCES","btnurl":"program/category/experiences","marginbottom":"false"},"id":"6f117c1e-e1ed-40be-8010-10ceed182473","isHidden":false,"type":"t23_buttonBling"},{"content":{"spacesize":"one","custommargin":"-50px"},"id":"c5385307-0ae3-46d8-86e0-da02e4a14aaa","isHidden":false,"type":"t23_space"}]
+Contentblocks: [{"content":{"spacesize":"custom","custommargin":"-20px"},"id":"645c3a74-613c-4666-9484-569f14c35a6d","isHidden":false,"type":"tr_space"},{"content":{"btntext":"Browse all EXPERIENCES","btnurl":"program/category/experiences","marginbottom":"false"},"id":"6f117c1e-e1ed-40be-8010-10ceed182473","isHidden":false,"type":"buttonBling"},{"content":{"spacesize":"one","custommargin":"-50px"},"id":"c5385307-0ae3-46d8-86e0-da02e4a14aaa","isHidden":false,"type":"tr_space"}]
 
 ----
 

@@ -6,7 +6,7 @@ Intro: Die diesjährigen **PERFORMANCES** umfassen eine Vielzahl von Veranstaltu
 
 ----
 
-Contentblocks: [{"content":{"spacesize":"custom","custommargin":"-20px"},"id":"b17de425-6c39-4375-9b59-0dfdcbf9b875","isHidden":false,"type":"t23_space"},{"content":{"btntext":"Alle PERFORMANCES anzeigen","btnurl":"program/category:performances","marginbottom":"true"},"id":"6f117c1e-e1ed-40be-8010-10ceed182473","isHidden":false,"type":"t23_buttonBling"}]
+Contentblocks: [{"content":{"spacesize":"custom","custommargin":"-20px"},"id":"b17de425-6c39-4375-9b59-0dfdcbf9b875","isHidden":false,"type":"tr_space"},{"content":{"btntext":"Alle PERFORMANCES anzeigen","btnurl":"program/category:performances","marginbottom":"true"},"id":"6f117c1e-e1ed-40be-8010-10ceed182473","isHidden":false,"type":"buttonBling"}]
 
 ----
 

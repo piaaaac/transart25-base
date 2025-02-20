@@ -2,7 +2,7 @@ Title: Transart OASIE
 
 ----
 
-Contentblocks: [{"content":{"spacesize":"one","custommargin":"-50px"},"id":"9ebb3b3d-f8fd-4e72-a61a-98c03bbe9414","isHidden":false,"type":"t23_space"},{"content":{"text1":"## Transart OASIE\n\nA space for gathering, exchange and dialogue, a new location to foster dialogue between artists, the team, and the city: this year Transart has a small OASIE in the heart of Bolzano. Here you can also buy your tickets and season tickets, ask for information, meet artists, and much more!","imgs":["file://fpRLTXcencYYQyZI"],"text2":"(link: locations class: button text: See all locations)","marginbottom":"true"},"id":"061001a7-e6f5-4b27-862e-eb40f0bd0991","isHidden":false,"type":"t23_textImgCta"}]
+Contentblocks: [{"content":{"spacesize":"one","custommargin":"-50px"},"id":"9ebb3b3d-f8fd-4e72-a61a-98c03bbe9414","isHidden":false,"type":"tr_space"},{"content":{"text1":"## Transart OASIE\n\nA space for gathering, exchange and dialogue, a new location to foster dialogue between artists, the team, and the city: this year Transart has a small OASIE in the heart of Bolzano. Here you can also buy your tickets and season tickets, ask for information, meet artists, and much more!","imgs":["file://fpRLTXcencYYQyZI"],"text2":"(link: locations class: button text: See all locations)","marginbottom":"true"},"id":"061001a7-e6f5-4b27-862e-eb40f0bd0991","isHidden":false,"type":"textImgCta"}]
 
 ----
 

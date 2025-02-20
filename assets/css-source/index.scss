@@ -260,12 +260,12 @@ i.fontello {
   }
 
   .block {
-    &:not([data-marginbottom="false"]):not(.t23_space) {
+    &:not([data-marginbottom="false"]):not(.tr_space) {
       padding-bottom: 120px;
     }
   }
 
-  .block.t23_textImgCta {
+  .block.textImgCta {
     figure,
     img {
       position: relative;
@@ -273,7 +273,7 @@ i.fontello {
     }
   }
 
-  .block.t23_multicolumns {
+  .block.multicolumns {
     figure,
     img {
       position: relative;
@@ -281,7 +281,7 @@ i.fontello {
     }
   }
 
-  .block.t23_accordion {
+  .block.accordion {
     .items {
       .item {
         margin-left: -10px;

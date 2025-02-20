@@ -3,12 +3,12 @@ $blockOptions = [
   "marginBottom" => $block->marginBottom()->value(),
 ];
 $blockOptionsAttributes = [];
-foreach ($blockOptions as $k => $op) { 
-  $blockOptionsAttributes[] = "data-". $k ."='$op'";
+foreach ($blockOptions as $k => $op) {
+  $blockOptionsAttributes[] = "data-" . $k . "='$op'";
 }
 ?>
 
-<section class="block t22_threeColsList" <?= implode(" ", $blockOptionsAttributes) ?>>
+<section class="block threeColsList" <?= implode(" ", $blockOptionsAttributes) ?>>
   <div class="container-fluid">
     <div class="row">
 

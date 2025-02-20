@@ -2,4 +2,4 @@ Title: Locations
 
 ----
 
-Contentblocks: [{"content":{"text1":"## Locations\n\nTransart è un festival diffuso, che da più di venti anni anima il territorio del Trentino-Alto Adige. Partendo da Bolzano, centro nevralgico del Festival, le sue iniziative vengono presentate in tutta la Regione da nord a sud, creando una piattaforma contemporanea interregionale e transfrontaliera.\n\n(link: locations class: button text: Vedi tutte le location)","imgs":["file://4MZ6WL3F7uyeEpKk"],"text2":"","marginbottom":"true"},"id":"a72c1b96-cf12-4411-bf28-2bbbcdfa6826","isHidden":false,"type":"t23_textImgCta"}]
+Contentblocks: [{"content":{"text1":"## Locations\n\nTransart è un festival diffuso, che da più di venti anni anima il territorio del Trentino-Alto Adige. Partendo da Bolzano, centro nevralgico del Festival, le sue iniziative vengono presentate in tutta la Regione da nord a sud, creando una piattaforma contemporanea interregionale e transfrontaliera.\n\n(link: locations class: button text: Vedi tutte le location)","imgs":["file://4MZ6WL3F7uyeEpKk"],"text2":"","marginbottom":"true"},"id":"a72c1b96-cf12-4411-bf28-2bbbcdfa6826","isHidden":false,"type":"textImgCta"}]

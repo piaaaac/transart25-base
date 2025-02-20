@@ -6,7 +6,7 @@ Intro:
 
 ----
 
-Contentblocks: [{"content":{"colnum":"col3","text1a":"","text2a":"","text2b":"","text3a":"**DESIGN**\n\n**Art direction** \nCinzia D'Emidio\n\n**Digital design**\nAlex Piacentini\n\n**Typography**\nDegular by OH no Type","text3b":"**CONTENT**\n\n**Coordination**\nDania Hussein","text3c":"**PRODUCTION**\n\n**Web development**\nAlex Piacentini","marginbottom":"true"},"id":"bb5dce83-2d94-4d92-907e-aa71e7fa6ce3","isHidden":false,"type":"t23_multicolumns"}]
+Contentblocks: [{"content":{"colnum":"col3","text1a":"","text2a":"","text2b":"","text3a":"**DESIGN**\n\n**Art direction** \nCinzia D'Emidio\n\n**Digital design**\nAlex Piacentini\n\n**Typography**\nDegular by OH no Type","text3b":"**CONTENT**\n\n**Coordination**\nDania Hussein","text3c":"**PRODUCTION**\n\n**Web development**\nAlex Piacentini","marginbottom":"true"},"id":"bb5dce83-2d94-4d92-907e-aa71e7fa6ce3","isHidden":false,"type":"multicolumns"}]
 
 ----
 

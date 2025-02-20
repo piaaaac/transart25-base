@@ -1,0 +1,18 @@
+name: Button bling
+preview: fields
+wysiwyg: true
+icon: dashboard
+fields:
+  btnText:
+    label: Text
+    type: text
+    width: 1/2
+  btnUrl:
+    label: Url
+    type: text
+    width: 1/2
+  marginBottom: # --- option "data-margin-bottom"
+    type: toggle
+    label: Margin bottom
+    default: true
+    width: 1/2

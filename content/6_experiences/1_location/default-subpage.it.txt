@@ -2,7 +2,7 @@ Title: Transart OASIE
 
 ----
 
-Contentblocks: [{"content":{"spacesize":"one","custommargin":"-50px"},"id":"9ebb3b3d-f8fd-4e72-a61a-98c03bbe9414","isHidden":false,"type":"t23_space"},{"content":{"text1":"## Transart OASIE\n\nUn luogo di incontro, di scambio e confronto, una location nuova per favorire il dialogo tra artist(shwa:), team e la città: Transart quest’anno ha una piccola OASIE in via Dante 32. Qui potete anche acquistare biglietti e abbonamenti, chiedere informazioni, incontrare artist(shwa:), e tanto altro ancora!","imgs":["file://fpRLTXcencYYQyZI"],"text2":"(link: locations class: button text: Vedi tutte le location)","marginbottom":"true"},"id":"061001a7-e6f5-4b27-862e-eb40f0bd0991","isHidden":false,"type":"t23_textImgCta"}]
+Contentblocks: [{"content":{"spacesize":"one","custommargin":"-50px"},"id":"9ebb3b3d-f8fd-4e72-a61a-98c03bbe9414","isHidden":false,"type":"tr_space"},{"content":{"text1":"## Transart OASIE\n\nUn luogo di incontro, di scambio e confronto, una location nuova per favorire il dialogo tra artist(shwa:), team e la città: Transart quest’anno ha una piccola OASIE in via Dante 32. Qui potete anche acquistare biglietti e abbonamenti, chiedere informazioni, incontrare artist(shwa:), e tanto altro ancora!","imgs":["file://fpRLTXcencYYQyZI"],"text2":"(link: locations class: button text: Vedi tutte le location)","marginbottom":"true"},"id":"061001a7-e6f5-4b27-862e-eb40f0bd0991","isHidden":false,"type":"textImgCta"}]
 
 ----
 

@@ -6,7 +6,7 @@ Intro: This year’s **PERFORMANCES** encompass a host of events, from electroni
 
 ----
 
-Contentblocks: [{"content":{"spacesize":"custom","custommargin":"-20px"},"id":"dabd4c39-a902-4e7e-9943-b61d0d44a4e9","isHidden":false,"type":"t23_space"},{"content":{"btntext":"Browse all PERFORMANCES","btnurl":"program/category/performances","marginbottom":"true"},"id":"6f117c1e-e1ed-40be-8010-10ceed182473","isHidden":false,"type":"t23_buttonBling"}]
+Contentblocks: [{"content":{"spacesize":"custom","custommargin":"-20px"},"id":"dabd4c39-a902-4e7e-9943-b61d0d44a4e9","isHidden":false,"type":"tr_space"},{"content":{"btntext":"Browse all PERFORMANCES","btnurl":"program/category/performances","marginbottom":"true"},"id":"6f117c1e-e1ed-40be-8010-10ceed182473","isHidden":false,"type":"buttonBling"}]
 
 ----
 

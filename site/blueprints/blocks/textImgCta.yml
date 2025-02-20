@@ -1,0 +1,25 @@
+name: Text-Image-CTA
+preview: fields
+wysiwyg: true
+icon: dashboard
+fields:
+  text1:
+    label: Text 1
+    type: textarea
+    width: 1/2
+    help: On mobile devices this appears before the image
+  imgs:
+    label: Images
+    # translate: false
+    type: files
+    width: 1/2
+  text2:
+    label: Text 2
+    type: textarea
+    width: 1/2
+    help: On mobile devices this appears after the image
+  marginBottom: # --- option "data-margin-bottom"
+    type: toggle
+    label: Margin bottom
+    default: true
+    width: 1/2

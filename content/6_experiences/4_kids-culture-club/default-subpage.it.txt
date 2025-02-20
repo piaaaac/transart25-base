@@ -2,7 +2,7 @@ Title: Kids Culture Club
 
 ----
 
-Contentblocks: [{"content":{"text1":"## Kids Culture Club","imgs":["file://zUXoLahzQhihychT"],"text2":"(link: https://kidscultureclub.it/ target: _blank text: KIDS CULTURE!) è un club, una rete e un festival che si presenterà per la prima volta in autunno 2023 in Alto Adige e oltre confine, con un programma multiforme di eventi culturali gratuiti per i bambini e le famiglie che promuove l'apertura e la comprensione delle produzioni culturali e rende possibile il contatto diretto con le attività artistiche e lo sviluppo creativo personale e sociale. In anteprima a Transart presenta le sue attività all’OASIE Transart.\n\n\n(link: it/program/tag/kidscultureclub class: button text: Vedi gli eventi)","marginbottom":"true"},"id":"78c3c085-5014-460c-9677-dd167dca591f","isHidden":false,"type":"t23_textImgCta"}]
+Contentblocks: [{"content":{"text1":"## Kids Culture Club","imgs":["file://zUXoLahzQhihychT"],"text2":"(link: https://kidscultureclub.it/ target: _blank text: KIDS CULTURE!) è un club, una rete e un festival che si presenterà per la prima volta in autunno 2023 in Alto Adige e oltre confine, con un programma multiforme di eventi culturali gratuiti per i bambini e le famiglie che promuove l'apertura e la comprensione delle produzioni culturali e rende possibile il contatto diretto con le attività artistiche e lo sviluppo creativo personale e sociale. In anteprima a Transart presenta le sue attività all’OASIE Transart.\n\n\n(link: it/program/tag/kidscultureclub class: button text: Vedi gli eventi)","marginbottom":"true"},"id":"78c3c085-5014-460c-9677-dd167dca591f","isHidden":false,"type":"textImgCta"}]
 
 ----
 

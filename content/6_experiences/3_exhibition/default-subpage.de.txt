@@ -2,7 +2,7 @@ Title: Exhibition
 
 ----
 
-Contentblocks: [{"content":{"text1":"## Exhibition","imgs":["file://SIKZwKZH0nnBib6Q"],"text2":"(link: https://www.transart.it/de/program/who-s-next-exhibition text: **Who's Next?**), kuratiert von Daniel Talesnik unter der Leitung von Andres Lepik, analysiert das aufkommende Phänomen der Obdachlosigkeit auf globaler Ebene. Die Ausstellung, die zum ersten Mal in Italien zu sehen ist, stellt dieses heikle soziale Thema aus verschiedenen Blickwinkeln dar und veranschaulicht das aktuelle Szenario der Obdachlosigkeit in Südtirol. In besonderer Zusammenarbeit mit dem Nachtquartier für obdachlose Menschen Dormizil.","marginbottom":"true"},"id":"d863f4ab-9d04-4a7c-953f-bc8c51d9bdce","isHidden":false,"type":"t23_textImgCta"}]
+Contentblocks: [{"content":{"text1":"## Exhibition","imgs":["file://SIKZwKZH0nnBib6Q"],"text2":"(link: https://www.transart.it/de/program/who-s-next-exhibition text: **Who's Next?**), kuratiert von Daniel Talesnik unter der Leitung von Andres Lepik, analysiert das aufkommende Phänomen der Obdachlosigkeit auf globaler Ebene. Die Ausstellung, die zum ersten Mal in Italien zu sehen ist, stellt dieses heikle soziale Thema aus verschiedenen Blickwinkeln dar und veranschaulicht das aktuelle Szenario der Obdachlosigkeit in Südtirol. In besonderer Zusammenarbeit mit dem Nachtquartier für obdachlose Menschen Dormizil.","marginbottom":"true"},"id":"d863f4ab-9d04-4a7c-953f-bc8c51d9bdce","isHidden":false,"type":"textImgCta"}]
 
 ----
 

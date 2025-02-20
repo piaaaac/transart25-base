@@ -2,7 +2,7 @@ Title: Exhibition
 
 ----
 
-Contentblocks: [{"content":{"text1":"## Exhibition","imgs":["file://SIKZwKZH0nnBib6Q"],"text2":"(link: https://www.transart.it/en/program/who-s-next-exhibition text: *Who's Next?*), curated by Daniel Talesnik under the direction of Andres Lepik, analyses the emergent phenomenon of homelessness on a global level. Showing for the first time in Italy, this exhibition presents this sensitive social issue from different points of view, and illustrates the current scenario in South Tyrol, with special collaboration with Dormizil Dormitory.","marginbottom":"true"},"id":"d863f4ab-9d04-4a7c-953f-bc8c51d9bdce","isHidden":false,"type":"t23_textImgCta"}]
+Contentblocks: [{"content":{"text1":"## Exhibition","imgs":["file://SIKZwKZH0nnBib6Q"],"text2":"(link: https://www.transart.it/en/program/who-s-next-exhibition text: *Who's Next?*), curated by Daniel Talesnik under the direction of Andres Lepik, analyses the emergent phenomenon of homelessness on a global level. Showing for the first time in Italy, this exhibition presents this sensitive social issue from different points of view, and illustrates the current scenario in South Tyrol, with special collaboration with Dormizil Dormitory.","marginbottom":"true"},"id":"d863f4ab-9d04-4a7c-953f-bc8c51d9bdce","isHidden":false,"type":"textImgCta"}]
 
 ----
 
