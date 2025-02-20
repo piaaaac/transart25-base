@@ -1,9 +1,0 @@
-name: Items / 3 columns
-fields:
-  items:
-    type: structure
-    label: Items
-    fields: 
-      itemText:
-        type: textarea
-        label: Text
