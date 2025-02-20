@@ -1,0 +1,21 @@
+Title: Festival
+
+----
+
+Intro: Transart is a **multidisciplinary festival**, which involves its audience in the exciting exploration of **new contemporary frontiers**, through a multiplicity of expressive languages and their innovations: from classical to electronic music, from figurative arts to performance, and from cinema to new digital technologies.
+
+----
+
+Contentblocks: 
+
+----
+
+Background: performances
+
+----
+
+Text: <!-- temp: manually via snippet -->
+
+----
+
+Uuid: DR0Wdbbc1UN9fzYx

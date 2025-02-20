@@ -1,0 +1,29 @@
+Title: Home
+
+----
+
+Vimeoembeddsk: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1015583124?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&background=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Transart24 ◎ AFTERMOVIE"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+----
+
+Vimeoembedmob: <div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1015583034?h=f5cd3142d9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&background=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Transart24 ◎ AFTERMOVIE Reel"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+----
+
+Intro: *Transart* is a multidisciplinary festival ranging from music to dance, from figurative arts to performance. Together with its audience, it discovers the most contemporary, stimulating and artistic expressions, always attentive to the rhythm of time.
+
+----
+
+Highlights:
+
+- page://m25U0VWg4mSpwjPR
+- page://SItaBsvVFeVrewVP
+- page://hFGYCkPpK4PnQpcl
+
+----
+
+Contentblocks: [{"content":{"colnum":"col2","text1a":"","text2a":"## Performances\n\n(image: the-world-saviouresse-emilia-therese.jpg)\n\n \nPhasellus facilisis lorem enim vestibulum, vitae sodales nunc tempus. Vivamus metus odio, condimentum dictum ex nec, viverra vehicula ligula. Nunc pulvinar, leo ac condimentum vehicula, mauris odio egestas nunc, iaculis tristique orci metus at nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. \n\n(link: performances text: Discover more class: button) (link: de/program/category/performances text: See events class: button)","text2b":"## Experiences\n\n(image: hans-walter-muller-lukas-schaller.jpg)\n\n \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque rutrum, nisl quis euismod mattis, lorem risus sagittis dui, et porttitor ante quam id augue. Cras facilisis dignissim dignissim. Maecenas eget rutrum enim. Ut vulputate tincidunt erat sit amet faucibus. In volutpat sagittis tortor, eget tempor orci vestibulum et. Etiam sed porta orci.\n\n(link: experiences text: Discover more class: button) (link: de/program/category/experiences text: See events class: button)","text3a":"","text3b":"","text3c":"","marginbottom":"true"},"id":"d94a6877-94a4-4db3-a74e-88641a06b371","isHidden":false,"type":"t23_multicolumns"},{"content":{"text1":"## Locations","imgs":["file://sNyOB9ZZf2xvWEzO"],"text2":"Transart is a **diverse festival** that has made waves in the region of **Trentino-South Tyrol** for more than twenty years. Based in Bolzano, the heart of the festival, its events reach across the region from north to south, creating a contemporary interregional and cross-border platform.\n\n(link: locations text: Explore the map class: button)","marginbottom":"true"},"id":"8d1b70d8-639a-4b01-90f9-27e21f0dddde","isHidden":false,"type":"t23_textImgCta"},{"content":{"colnum":"col1","text1a":"## Editions\n\nTransart23 was an intense journey into the contemporary, exploring dance, music, theatre, digital arts and more; discovering new locations, meeting artists, and sharing powerful experiences.\n\n(link: archive text: Check out the past editions of the festival class: button)","text2a":"","text2b":"","text3a":"","text3b":"","text3c":"","marginbottom":"true"},"id":"763afce5-7052-4859-99d4-2133b986ec7f","isHidden":false,"type":"t23_multicolumns"},{"content":{"text1":"## Art Bonus","imgs":["file://WB56yoysDK4n6d7q"],"text2":"With Art Bonus you can support Transart and turn your investment in culture and art in South Tyrol into tax credit!\n\n(link: supporters#anchor-art-bonus class: button text: Discover more)","marginbottom":"true"},"id":"e92cff7a-4b05-4440-8430-b3bcc2c52a70","isHidden":false,"type":"t23_textImgCta"}]
+
+----
+
+Uuid: lMbVsJsjWQXGQILZ

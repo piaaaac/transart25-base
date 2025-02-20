@@ -1,0 +1,9 @@
+Title: Art Bonus
+
+----
+
+Contentblocks: [{"content":{"spacesize":"one","custommargin":""},"id":"bc247440-7291-4bda-b183-e19186975cf1","isHidden":false,"type":"t23_space"},{"content":{"colnum":"col1","text1a":"## Art Bonus\n\nWith the Art Bonus you can support Transart and turn your investment in South Tyrol's culture and art into tax credit!\n\nDon't miss the opportunity to contribute to this system of cultural patronage and take advantage of up to 65% tax credit on your donation.\n\nTo discover how to take advantage of these tax benefits, download the Art Bonus document!\n\n(file: ITA-TA-23_art-bonus.pdf class: button icon-darr text: ↓ Art Bonus PDF (Italian)) (file: DEU_TA-23_art-bonus.pdf class: button icon-darr text: ↓ Art Bonus PDF (German))\n\n**ART BONUS DONORS 2023**\n\n- Fondazione Cassa di Risparmio\n- Niederstätter\n- Rothoblaas\n- Finstral\n- Dalle Nogare\n- IFI","text2a":"","text2b":"","text3a":"","text3b":"","text3c":"","marginbottom":"true"},"id":"a91605fd-a70e-4e34-ae25-e3b83f082bc5","isHidden":false,"type":"t23_multicolumns"}]
+
+----
+
+Uuid: YpqZXj0zgbM6jJ9R

@@ -1,0 +1,105 @@
+Title: SHORTPARIS
+
+----
+
+Subtitle: Live concert
+
+----
+
+Category: performances
+
+----
+
+Img: - file://lmuMIrHkL4zz75bC
+
+----
+
+Archived: false
+
+----
+
+Description:
+
+Hailing from St. Petersburg, Shortparis is at the avant-garde of Russia's music scene. With their intense blend of rock, pop noir, underground and art punk, they have been awarded the title of 'best Russian live band' by the cultural TV channel Arte. Guided by charismatic frontman Nikolay Komiagin, the band has built a reputation for breathtaking ritualistic performances and dark, electronic soundscapes. 
+
+Their sound is radical, unsettling, and ruthless, with fast rhythms, sampled recordings, brutal guitar sounds and subdued bass, at times reminiscent of 1980s industrial music. After Russia's military aggression in Ukraine, the band's aesthetic became deeply melancholic. The newspaper 'die TAZ' describes the song 'Yablonnyy sad' as 'one of the strongest artistic statements from Russia since the beginning of the war'. Their political engagement is strong and touches them personally: singer Nikolay Komyagin was arrested during a demonstration shortly after the start of the war, but released a short time later. In an interview with TAZ, he speaks of their rootedness: 'Initially we considered whether to emigrate as a band, but we decided to stay as long as we could'. Drummer Danila Kholodkov adds: 'As long as we can make the art we want to make in Russia, we will not leave the country'.
+
+----
+
+Startdate: 2024-09-12
+
+----
+
+Hasenddate: false
+
+----
+
+Enddate: 
+
+----
+
+Starttime: 21:00:00
+
+----
+
+Hasendtime: false
+
+----
+
+Endtime: 
+
+----
+
+Place: locations/quartiere-ponte-roma
+
+----
+
+Eventtags: music
+
+----
+
+Ticketbutton: true
+
+----
+
+Tickettext: 
+
+----
+
+Ticketprice: 15/10
+
+----
+
+Ticketlink: 
+
+----
+
+Detailsitems:
+
+- 
+  itemtype: normal
+  itemlabel: Credits
+  itemtext: |
+    **Vocals**
+    Nikolai Komiagin
+    
+    **Drums, sampling**
+    Pavel Lesnikov
+    
+    **Guitar, bass, Bayan**
+    Aleksandr Ionin
+    
+    **Drums, percussion, sampling**
+    Danila Kholodkov
+
+----
+
+Related: 
+
+----
+
+Past: false
+
+----
+
+Uuid: tJEK5m5cRcmH2vA5

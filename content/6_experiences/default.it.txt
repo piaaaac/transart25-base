@@ -1,0 +1,13 @@
+Title: Experiences
+
+----
+
+Intro: Ad arricchire la 23esima edizione una varietà di EXPERIENCES, iniziative gratuite dedicate alla partecipazione immersiva del pubblico: conversazioni e incontri con l(shwa:) artist(shwa:), workshop, laboratori per l’infanzia, una mostra, un’architettura site-specific e tanto altro ancora. Potete vivere tutte le nostre experiences in programma nella nostra **OASIE Transart** nel centro di Bolzano.
+
+----
+
+Contentblocks: [{"content":{"spacesize":"custom","custommargin":"-20px"},"id":"645c3a74-613c-4666-9484-569f14c35a6d","isHidden":false,"type":"t23_space"},{"content":{"btntext":"Scopri tutte le EXPERIENCES","btnurl":"program/category:experiences","marginbottom":"false"},"id":"6f117c1e-e1ed-40be-8010-10ceed182473","isHidden":false,"type":"t23_buttonBling"},{"content":{"spacesize":"one","custommargin":"-50px"},"id":"c5385307-0ae3-46d8-86e0-da02e4a14aaa","isHidden":false,"type":"t23_space"}]
+
+----
+
+Category: experiences

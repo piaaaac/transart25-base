@@ -1,0 +1,9 @@
+Credittext: Photo © Judith Thaler
+
+----
+
+Uuid: ApEZl4LDSOql0XS2
+
+----
+
+Template: img-with-credits

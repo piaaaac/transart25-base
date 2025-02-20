@@ -1,0 +1,100 @@
+Title: Ascension
+
+----
+
+Subtitle: Alexander Manotskov, Kymatic Ensemble
+
+----
+
+Category: performances
+
+----
+
+Img: - file://zHkuEIqV85U1Saix
+
+----
+
+Archived: false
+
+----
+
+Description:
+
+**An open-air musical performance**
+Ascension is the latest musical composition, intended for voice and chamber ensemble, by Russian composer Alexander Manotskov. This site-specific composition, written specifically for the evocative ascent towards the Vigiljoch / San Vigilio mountain, is grounded in sound and space around the idea of pilgrimage and ascent. An ascent that is not only metaphorical, but also literal: during the performance, the audience is invited to gradually move together with the musicians towards the summit of the mountain, through a series of musical and visual experiences. Alongside a contemporary repertoire, there will be some traditional songs, such as the famous Adiyukh song linked to the Caucasus epic and performed by Circassian singer and artist Svetlana Mamresheva. Ascension is not only site-specific, but also ensemble-specific, as it was composed specifically for Kymatic, the contemporary music ensemble led by multi-instrumentalist Alina Petrova and devoted to the newest experimentation in music.
+
+----
+
+Startdate: 2024-09-14
+
+----
+
+Hasenddate: false
+
+----
+
+Enddate: 
+
+----
+
+Starttime: 12:00:00
+
+----
+
+Hasendtime: false
+
+----
+
+Endtime: 
+
+----
+
+Place: locations/vigiljoch
+
+----
+
+Eventtags: music
+
+----
+
+Ticketbutton: true
+
+----
+
+Tickettext: 
+
+----
+
+Ticketprice: 5
+
+----
+
+Ticketlink: 
+
+----
+
+Detailsitems:
+
+- 
+  itemtype: normal
+  itemlabel: ""
+  itemtext: |
+    Meeting point for the public: Vigiljoch cable car valley station, Via Villa, 3, 39011 Lana BZ.
+    
+    The performance includes the use of the Vigiljoch cable car (6 minutes), and the ascent with the single chairlift up the mountain (20 minutes)
+    
+    An all-inclusive ticket for the event + cable car ride is available for 17 euros at the cable car station on the day of the event. The last descent of the chairlift is at 6 p.m. The descent is also possible on foot (walking time 40') The last cable car descent is at 19.00.
+    
+    Translated with DeepL.com (free version)
+
+----
+
+Related: 
+
+----
+
+Past: false
+
+----
+
+Uuid: Ib0mzwkzlogCU6G0

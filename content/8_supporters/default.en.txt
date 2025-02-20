@@ -1,0 +1,21 @@
+Title: Supporters
+
+----
+
+Intro: For over 20 years, Transart Festival has been a **landmark for international contemporary art audiences** and a must-see event in the cultural scene of its host region.
+
+----
+
+Contentblocks: [{"content":{"colnum":"col1","text1a":"Since its first edition, Transart has benefited from the recognition and support of private companies, cultural institutions and public bodies, who have believed in our project and our challenges.\n\nFor all our supporters, the festival is a significant opportunity for business growth and increased visibility, as well as an opportunity to benefit from numerous advantages.\n\nFor companies interested in becoming supporters of the festival, we would be happy to meet and discuss the possibilities of a partnership to find targeted promotional and joint marketing initiatives together.\nIf you are a private organisation and would like to contact us to support the festival, or if you would like to explore potential collaboration opportunities, please write to *(email: info@transart.it text: info@transart.it)*.","text2a":"","text2b":"","text3a":"","text3b":"","text3c":"","marginbottom":"false"},"id":"e24cc55d-27ee-4f39-8589-6ae752f2779e","isHidden":false,"type":"t23_multicolumns"},{"content":{"spacesize":"one","custommargin":""},"id":"9a8b477b-a95b-4421-b5e9-d8bb2edc2c03","isHidden":false,"type":"t23_space"}]
+
+----
+
+Background: performances
+
+----
+
+Text: 
+
+----
+
+Uuid: OblyhG7orpLQ8ToM

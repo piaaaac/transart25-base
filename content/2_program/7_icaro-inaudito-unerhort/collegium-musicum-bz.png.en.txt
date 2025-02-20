@@ -1,0 +1,13 @@
+Uuid: Ckq6Vw4KBxzjSzp0
+
+----
+
+Template: logos
+
+----
+
+Sort: 1
+
+----
+
+Credittype: collaboration

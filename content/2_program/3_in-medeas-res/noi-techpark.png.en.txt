@@ -1,0 +1,13 @@
+Uuid: IDMMyVev4o8sL9Nn
+
+----
+
+Template: logos
+
+----
+
+Sort: 2
+
+----
+
+Credittype: collaboration

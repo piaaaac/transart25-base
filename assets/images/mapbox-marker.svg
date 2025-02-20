@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="44px" viewBox="0 0 35 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mapbox-marker</title>
+    <g id="mapbox-marker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M17.5000005,2.191598 C21.7627495,2.191598 25.6219445,3.919419 28.4154535,6.712927 C31.2089615,9.506435 32.9367815,13.36563 32.9367815,17.62838 C32.9367815,23.404407 27.6902155,31.443381 17.4987995,41.808402 C7.3091295,31.442377 2.0632185,23.404047 2.0632185,17.62838 C2.0632185,13.36563 3.7910385,9.506435 6.5845475,6.712927 C9.3780555,3.919419 13.2372505,2.191598 17.5000005,2.191598 Z" id="Oval" stroke="#FFFFFF" stroke-width="2" fill="#DEDC00" fill-rule="nonzero"></path>
+    </g>
+</svg>

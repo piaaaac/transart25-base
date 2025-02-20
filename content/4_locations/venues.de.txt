@@ -1,0 +1,9 @@
+Title: Locations
+
+----
+
+Intro: Transart ist ein **Festival mit wechselnden Aufführungsorten**, das seit mehr als zwanzig Jahren das Gebiet von **Trentino-Südtirol** belebt. Ausgehend von Bozen, dem neuralgischen Zentrum des Festivals, werden die Initiativen einmal quer durch die gesamte Region präsentiert und bilden dadurch eine zeitgenössische überregionale und grenzüberschreitende Plattform.
+
+----
+
+Contentblocks: 

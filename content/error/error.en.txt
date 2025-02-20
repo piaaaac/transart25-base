@@ -1,0 +1,17 @@
+Title: Error
+
+----
+
+Intro: 💥 Something went wrong, we're sorry. (link: home text: Homepage →)
+
+----
+
+Contentblocks: 
+
+----
+
+Text: 
+
+----
+
+Uuid: ldG8iB588cOgB2mi

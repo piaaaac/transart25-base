@@ -1,0 +1,15 @@
+title: Default Subpage
+extends: layouts/default
+
+columns:
+
+  main:
+    sections:
+      meta:
+        fields:
+          intro: false
+
+  sidebar:
+    sections:
+      meta2: false
+      pages: false

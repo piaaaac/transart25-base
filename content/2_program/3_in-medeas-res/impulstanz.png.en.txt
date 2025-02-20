@@ -1,0 +1,13 @@
+Uuid: Ipv9GDdhZNYK1TMP
+
+----
+
+Template: logos
+
+----
+
+Sort: 1
+
+----
+
+Credittype: collaboration

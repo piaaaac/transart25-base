@@ -1,0 +1,33 @@
+Title: Pichler Projects
+
+----
+
+Img: - file://be2RaZkPi607j0gp
+
+----
+
+Description: 
+
+----
+
+Address: Thomas Alva Edison Str. 15 Via Thomas Alva Edison
+
+----
+
+City: Bozen / Bolzano
+
+----
+
+Lon: 11.324754737793
+
+----
+
+Lat: 46.478305937544
+
+----
+
+Mapslink: https://goo.gl/maps/ELqBmNL3E1brguqr9
+
+----
+
+Uuid: GgPgjPniFUBfAxSS

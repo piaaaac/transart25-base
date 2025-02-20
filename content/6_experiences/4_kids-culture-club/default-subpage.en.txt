@@ -1,0 +1,13 @@
+Title: Kids Culture Club
+
+----
+
+Contentblocks: [{"content":{"text1":"## Kids Culture Club","imgs":["file://zUXoLahzQhihychT"],"text2":"(link: https://kidscultureclub.it/ target: _blank text: KIDS CULTURE!) is a club, a network and a festival that will be presented for the first time in autumn 2023 in South Tyrol and beyond, with a multifaceted programme of free cultural events for children and families that promotes openness and understanding of cultural productions and makes direct contact with artistic activities and personal and social creative development possible. With a program of events hosted at our OASIE, experience KIDS CULTURE CLUB at Transart23!\n\n(link: en/program/tag/kidscultureclub class: button text: See events)","marginbottom":"true"},"id":"78c3c085-5014-460c-9677-dd167dca591f","isHidden":false,"type":"t23_textImgCta"}]
+
+----
+
+Background: performances
+
+----
+
+Uuid: fac2b6t2zJK8XoH0

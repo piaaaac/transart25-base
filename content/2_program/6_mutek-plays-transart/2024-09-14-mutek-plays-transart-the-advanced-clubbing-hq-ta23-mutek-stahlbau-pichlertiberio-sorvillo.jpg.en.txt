@@ -1,0 +1,9 @@
+Credittext: Photo © Tiberio Sorvillo
+
+----
+
+Uuid: cotdSYPtkJ6oZDHf
+
+----
+
+Template: img-with-credits

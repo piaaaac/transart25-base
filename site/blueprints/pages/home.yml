@@ -1,0 +1,36 @@
+title: Home 23 3 (post)
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      meta:
+        type: fields
+        fields:
+          vimeoEmbedDsk:
+            type: textarea
+            translate: false
+            width: 1/2
+
+          vimeoEmbedMob:
+            type: textarea
+            translate: false
+            width: 1/2
+
+          intro:
+            type: textarea
+            size: tiny
+
+          highlights:
+            type: pages
+            query: site.find("program").children
+            translate: false
+
+          contentBlocks:
+            extends: fields/blocks-field
+
+  sidebar:
+    width: 1/3
+    sections:
+      files:
+        type: files

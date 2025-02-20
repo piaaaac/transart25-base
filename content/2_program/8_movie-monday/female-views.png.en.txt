@@ -1,0 +1,13 @@
+Uuid: 9cDE97uk6L8xCzhs
+
+----
+
+Template: logos
+
+----
+
+Sort: 2
+
+----
+
+Credittype: collaboration

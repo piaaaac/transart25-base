@@ -1,0 +1,9 @@
+Title: Transart OASIE
+
+----
+
+Contentblocks: [{"content":{"spacesize":"one","custommargin":"-50px"},"id":"9ebb3b3d-f8fd-4e72-a61a-98c03bbe9414","isHidden":false,"type":"t23_space"},{"content":{"text1":"## Transart OASIE\n\nEin Ort der Begegnung, des Austauschs und der Auseinandersetzung, ein neuer Ort, um den Dialog zwischen Kunstschaffenden, Team und der Stadt zu fördern: Transart bietet in diesem Jahr eine kleine OASIE im Herzen der Stadt. Hier können Sie auch Tickets und Abonnements erwerben, Informationen abfragen, Künstler:innen treffen und vieles mehr!","imgs":["file://fpRLTXcencYYQyZI"],"text2":"(link: locations class: button text: Alle Standorte anzeigen)","marginbottom":"true"},"id":"061001a7-e6f5-4b27-862e-eb40f0bd0991","isHidden":false,"type":"t23_textImgCta"}]
+
+----
+
+Background: performances

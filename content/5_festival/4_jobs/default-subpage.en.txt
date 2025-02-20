@@ -1,0 +1,9 @@
+Title: Work with us
+
+----
+
+Contentblocks: [{"content":{"colnum":"col1","text1a":"##Work with us\n\nTransart Festival is currently seeking a:\n\n**OASIE Manager**. Application deadline: May 7\n\n(file: ta24_oasie-manager_en.pdf text: ↓ Download the open call class: button)\n\n\n**Box office & ticketing manager**. Application deadline: May 7\n\n(file: ta24_box-office-ticketing-manager_en.pdf text: ↓ Download the open call class: button)\n\n\n**Festival Intern**. Application deadline: May 7\n\n(file: ta24_internship_en.pdf text: ↓ Download the open call class: button)","text2a":"","text2b":"","text3a":"","text3b":"","text3c":"","marginbottom":"true"},"id":"32b7cf50-f090-4dc2-b8b8-4d6e45f6fc41","isHidden":false,"type":"t23_multicolumns"}]
+
+----
+
+Uuid: edgRQ64VdctXsvJj

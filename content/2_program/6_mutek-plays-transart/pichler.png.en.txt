@@ -1,0 +1,17 @@
+Credittype: thanks
+
+----
+
+Linkurl: 
+
+----
+
+Uuid: Hmbs9WsY7yPu7IVZ
+
+----
+
+Template: logos
+
+----
+
+Sort: 2

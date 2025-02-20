@@ -1,0 +1,5 @@
+Title: Art Bonus
+
+----
+
+Contentblocks: [{"content":{"spacesize":"one","custommargin":""},"id":"bc247440-7291-4bda-b183-e19186975cf1","isHidden":false,"type":"t23_space"},{"content":{"colnum":"col1","text1a":"## Art Bonus\n\n\u2028Con Art Bonus è possibile sostenere Transart e trasformare in credito d'imposta il vostro investimento nella cultura e nell'arte dell'Alto Adige!\u2028\n\nNon perdetevi la possibilità di contribuire a questo sistema di mecenatismo di culturale e di usufruire di un credito d'imposta pari a ben il 65% dell'importo donato.\n\n\u2028Per scoprire come beneficiare di questi vantaggi fiscali, scarica il documento Art Bonus!\n\n(file: ITA-TA-23_art-bonus.pdf class: button icon-darr text: ↓ Art Bonus PDF)\n\n**ART BONUS DONORS 2023**\n\n- Fondazione Cassa di Risparmio\n- Niederstätter\n- Rothoblaas\n- Finstral\n- Dalle Nogare\n- IFI","text2a":"","text2b":"","text3a":"","text3b":"","text3c":"","marginbottom":"true"},"id":"a91605fd-a70e-4e34-ae25-e3b83f082bc5","isHidden":false,"type":"t23_multicolumns"}]

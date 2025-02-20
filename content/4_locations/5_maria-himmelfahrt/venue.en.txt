@@ -1,0 +1,33 @@
+Title: Maria Himmelfahrt
+
+----
+
+Img: - file://w1UDhRnFzgmEeVoh
+
+----
+
+Description: 
+
+----
+
+Address: Maria Himmelfahrt am Ritten / Maria Assunta sull’Altopiano del Renon
+
+----
+
+City: Ritten / Renon
+
+----
+
+Lon: 11.39190696181
+
+----
+
+Lat: 46.52432196855
+
+----
+
+Mapslink: https://goo.gl/maps/hHPHp8rMS2SgLAs36
+
+----
+
+Uuid: yli64y9r6YQpWDvm

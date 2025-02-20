@@ -1,0 +1,5 @@
+Title: Stellenangebote
+
+----
+
+Contentblocks: [{"content":{"colnum":"col1","text1a":"##Stellenangebote\n\nTransart Festival sucht derzeit eine/n:\n\n**OASIE Manager**. Bewerbungsschluss: 7. Mai\n\n(file: ta24_oasie-manager_de.pdf text: ↓ Ausschreibung herunterladen class: button)\n\n\n**Box office & ticketing manager**. Bewerbungsschluss: 7. Mai\n\n(file: ta24_box-office-ticketing-manager_de.pdf text: ↓ Ausschreibung herunterladen class: button)\n\n\n**Praktikant:in**. Bewerbungsschluss: 7. Mai\n\n(file: ta24_internship_de.pdf text: ↓ Ausschreibung herunterladen class: button)","text2a":"","text2b":"","text3a":"","text3b":"","text3c":"","marginbottom":"true"},"id":"32b7cf50-f090-4dc2-b8b8-4d6e45f6fc41","isHidden":false,"type":"t23_multicolumns"}]

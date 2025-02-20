@@ -1,0 +1,76 @@
+Title: transart
+
+----
+
+Menuitems:
+
+- 
+  menupage:
+    - page://4nFenLwvqI7HfDzg
+  menutexten: Program
+  menutextit: Programma
+  menutextde: Programm
+  active: 'true'
+- 
+  menupage:
+    - page://uoD5Nl0ySbglkhN7
+  menutexten: Tickets
+  menutextit: Biglietti
+  menutextde: Tickets
+  active: 'true'
+- 
+  menupage:
+    - page://B7foWynqx0vO2DE8
+  menutexten: Locations
+  menutextit: Luoghi
+  menutextde: Locations
+  active: 'true'
+- 
+  menupage:
+    - page://DR0Wdbbc1UN9fzYx
+  menutexten: Festival
+  menutextit: Festival
+  menutextde: Festival
+  active: 'true'
+- 
+  menupage:
+    - page://OblyhG7orpLQ8ToM
+  menutexten: Supporters
+  menutextit: Supporters
+  menutextde: Supporters
+  active: 'true'
+- 
+  menupage:
+    - page://VV00PnmRlDKvXsAo
+  menutexten: Editions
+  menutextit: Edizioni
+  menutextde: Editions
+  active: 'false'
+- 
+  menupage:
+    - page://FCeG0YVsVx4Be8r3
+  menutexten: Performances
+  menutextit: Performances
+  menutextde: Performances
+  active: 'false'
+- 
+  menupage:
+    - page://YpC65ZYrZNpj0iQY
+  menutexten: Experiences
+  menutextit: Experiences
+  menutextde: Experiences
+  active: 'false'
+- 
+  menupage: [ ]
+  menutexten: Archive 22
+  menutextit: Archivio 22
+  menutextde: Archiv 22
+  active: 'false'
+
+----
+
+Socialdescription: Festival of contemporary culture in South Tyrol
+
+----
+
+Socialimage: - file://DY3oc8gUtjsiXs7o

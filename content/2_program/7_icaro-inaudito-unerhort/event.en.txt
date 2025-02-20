@@ -1,0 +1,105 @@
+Title: ICARO: Inaudito / Unerhört
+
+----
+
+Subtitle: with Studio Dan and chromoson ensemble
+
+----
+
+Category: experiences
+
+----
+
+Img: - file://u46sS6xurzFHNshW
+
+----
+
+Archived: false
+
+----
+
+Description: Like Icarus, INAUDITO/UNERHÖRT is also attracted to the sky, to the vastness of the Seiser Alm /Alpe di Siusi; it is here that he finds a special refuge in Hotel Icaro. Nestled in one of South Tyrol's most biodiverse areas, its architecture is home to hand-picked works of art, each with their own story. For a few hours, the musicians of Studio Dan and the chromoson ensemble will immerse themselves in this place of reflection and listening, weaving together these stories, inventing new ones, and letting the music weave new narratives. As if in a colourful, glittering alpine meadow, the sound interventions grow in and out of ICARO in a playful attempt to create a bridge between inside and outside.
+
+----
+
+Startdate: 2024-09-15
+
+----
+
+Hasenddate: false
+
+----
+
+Enddate: 
+
+----
+
+Starttime: 11:00:00
+
+----
+
+Hasendtime: true
+
+----
+
+Endtime: 16:00:00
+
+----
+
+Place: locations/icaro-hotel
+
+----
+
+Eventtags: 
+
+----
+
+Ticketbutton: true
+
+----
+
+Tickettext: 
+
+----
+
+Ticketprice: 10
+
+----
+
+Ticketlink: 
+
+----
+
+Detailsitems:
+
+- 
+  itemtype: normal
+  itemlabel: Studio Dan
+  itemtext: |
+    **Flute** Thomas Frey
+    **Saxophone** Clemens Salesny
+    **Trumpet, Electronics** Dominik Fuss
+    **Trombone** Daniel Riegler
+    **Piano, Theremin, Electronics** Michael Tiefenbacher
+    **Percussion** Hubert Bründlmayer
+    **Violin** Sofie Thorsbro-Dan
+    **Cello** Cornelia Burghardt
+    **Contrabass, eletric bass** Philipp Kienberger
+    **Tour and Stage Managment** Alexander Forstner
+- 
+  itemtype: normal
+  itemlabel: ensemble chromoson
+  itemtext: |
+    **Flute** Carolin Ralser
+    **Saxophone** Massimiliano Girardi
+    **Accordion** Maria Mogas Gensana
+    **Piano, Synthesiser** Luca Lavuri
+    **Percussion** Philipp Lamprecht
+
+----
+
+Related: 
+
+----
+
+Uuid: hFGYCkPpK4PnQpcl

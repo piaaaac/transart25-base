@@ -1,0 +1,19 @@
+Title: Tickets
+
+----
+
+Intro: Get your tickets online, at one of our box offices, or treat yourself to a festival pass!
+
+----
+
+Contentblocks:
+
+[{"content":{"colnum":"col2","text1a":"","text2a":"## ONLINE\n\n▶︎ **(link: https://www.ticket.bz.it/home.aspx?tag=TRA text: www.ticket.bz.it)**\nStadttheater Bozen / Teatro Comunale di Bolzano\n\n▶︎ **(link: https://dice.fm/browse/bologna text: dice.fm)**\nTickets available for MUTEK plays Transart – The Advanced Clubbing","text2b":"## BOX OFFICES\n\n▶︎ **Stadttheater Bozen / Teatro Comunale di Bolzano**\n(link: https://goo.gl/maps/vrcmvpuQL8CcMky87 text: Piazza Giuseppe Verdi Platz, 40, Bozen / Bolzano)\nTue - Fri: 14.30 - 19.00 / Sat: 15.30 - 19.00 \ninfo@ticket.bz.it / 0471 053 800\n\n▶︎ **Transart OASIE**\n(link: https://goo.gl/maps/QTipoo9DmvSiLJLN8 text: Dantestr. 32 via Dante, Bozen / Bolzano)\nTickets for all events can also be purchased at Transart OASIE, open every day of the festival from 17:00 - 20:00.\n\n▶︎ **Filmclub**\n(link: https://goo.gl/maps/wjQ88b4jfzzSHne29 text: Dr.-Josef-Streiter-Gasse, 8/D via Streiter, Bozen / Bolzano)\nTickets for the film (link: https://transart.it/en/program/music-2023 text: Music) are available at Filmclub.\n(link: https://www.filmclub.it/de/programm/filme/music/ text: www.filmclub.it) / 0471 059090","text3a":"","text3b":"","text3c":"","marginbottom":"true"},"id":"f4b6978b-b3c5-4fc8-949d-0277353c85a2","isHidden":false,"type":"t23_multicolumns"},{"content":{"text1":"## FESTIVAL PASSES\n\n**(link: https://www.ticket.bz.it/home.aspx?tag=TRA text: TRANSART LOVER)\n€149**\nGives you access to all events except the film (link: https://transart.it/en/program/music-2023 text: Music).\n\n**(link: https://www.ticket.bz.it/home.aspx?tag=TRA text: TRANSART YOUNG)\n€99**\nFor university students and under-35s, this pass gives you access to all all festival events except the film (link: https://transart.it/en/program/music-2023 text: Music).\n\n**(link: https://www.ticket.bz.it/home.aspx?tag=TRA text: ABO 1)\n€40**\nValid for three events: (link: https://www.transart.it/en/program/riot-days text: RIOT DAYS by Pussy Riot), (link: https://transart.it/en/program/mutek-plays-transart text: MUTEK Plays Transart - The Advanced Clubbing), and (link: https://transart.it/en/program/pianographique text: ARS Electronica - Pianographique).\n\n**(link: https://www.ticket.bz.it/home.aspx?tag=TRA text: ABO 2)\n€30**\nValid for three events of your choice: (link: https://transart.it/en/program/view:list/category:performances text: check the program)! Tickets to the film (link: https://transart.it/en/program/music-2023 text: Music) and (link: https://www.transart.it/en/program/riot-days text: RIOT DAYS by Pussy Riot) are not included in this ABO.","imgs":["file://rnx0Kv5Z6y6H6zPC"],"text2":"(link: https://www.ticket.bz.it/home.aspx?tag=TRA text: Get your Festival Pass class: button)","marginbottom":"true"},"id":"6a3af568-9bd7-4865-af5d-6cf73f3dcd1c","isHidden":false,"type":"t23_textImgCta"},{"content":{"colnum":"col2","text1a":"","text2a":"## REDUCED PRICE TICKETS\n\nStudents, over-65s, Vereinigte Bühnen Bozen Members, Trenitalia Members, Ökoinstitut Members, Members of the Film Association of South Tyrol, NOI Techpark Community.","text2b":"## CONTACT \n\nFor any questions, you can contact us at info@transart.it / 0471 673070.\n\n★ The Transart team is available to provide information on event accessibility.","text3a":"","text3b":"","text3c":"","marginbottom":"true"},"id":"3edaeaf2-fb5d-4bda-83bd-de73097996da","isHidden":false,"type":"t23_multicolumns"}]
+
+----
+
+Background: performances
+
+----
+
+Uuid: uoD5Nl0ySbglkhN7

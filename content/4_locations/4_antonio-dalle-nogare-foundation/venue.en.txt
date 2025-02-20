@@ -1,0 +1,33 @@
+Title: Antonio Dalle Nogare Foundation
+
+----
+
+Img: - file://BW48NfItdTotpKYJ
+
+----
+
+Description: 
+
+----
+
+Address: Rafensteiner Weg 19 via Rafenstein
+
+----
+
+City: Bozen / Bolzano
+
+----
+
+Lon: 11.35245554716
+
+----
+
+Lat: 46.51599175124
+
+----
+
+Mapslink: https://goo.gl/maps/Ym4JDoSdQqX6Fy9U9
+
+----
+
+Uuid: TQdrMmk3GVUyt2VV

@@ -1,0 +1,21 @@
+title: Venues
+sections:
+
+  meta:
+    type: fields
+    fields:
+
+      intro:
+        type: textarea
+        size: tiny
+        help: Large text under page title
+
+  venues:
+    type: pages
+    create: venue
+    layout: cards
+    info: "{{ page.lat }} - {{ page.lon }}<br />{{ page.mapsLink }}"
+    limit: 100
+    image:
+      cover: true
+      query: page.img.toFile

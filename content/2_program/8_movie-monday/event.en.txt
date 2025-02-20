@@ -1,0 +1,88 @@
+Title: Movie Monday
+
+----
+
+Subtitle: Teaches of Peaches (2024)
+
+----
+
+Category: performances
+
+----
+
+Img: - file://RSIo1ktsGHAQZnqC
+
+----
+
+Archived: false
+
+----
+
+Description: This documentary film, directed by Philipp Fussenegger and Judy Landkammer, follows the career of singer Peaches. Seamlessly interweaving exclusive archival excerpts with tour footage, the film captures the transformational journey of the Canadian performer. Filmed in 2022 during 'The Teaches of Peaches Anniversary Tour', it chronicles the frenzy of tour: from the show's rigorous daily rehearsals to the artist's most intimate moments, we uncover all the behind-the-scenes details. A feminist, musician, producer, director and performer, Peaches has spent over two decades challenging gender stereotypes, cementing her status as an icon of pop and the music industry. Her fearless originality has challenged social norms, dismantled stereotypes and confronted patriarchal power structures. With her biting wit, she has fought for LGBTQIA+ rights and addressed issues of sexual and gender identity, leaving an indelible mark on popular culture.
+
+----
+
+Startdate: 2024-09-16
+
+----
+
+Hasenddate: false
+
+----
+
+Enddate: 
+
+----
+
+Starttime: 20:30:00
+
+----
+
+Hasendtime: false
+
+----
+
+Endtime: 
+
+----
+
+Place: locations/filmclub-capitol
+
+----
+
+Eventtags: movie
+
+----
+
+Ticketbutton: true
+
+----
+
+Tickettext: 
+
+----
+
+Ticketprice: 8
+
+----
+
+Ticketlink: https://www.filmclub.it/de/programm/filme/teaches-of-peaches/
+
+----
+
+Detailsitems:
+
+- 
+  itemtype: normal
+  itemlabel: ""
+  itemtext: |
+    **Directed by** Philipp Fussenegger, Judy Landkammer
+    **Runtime** 108 minutes
+
+----
+
+Related: 
+
+----
+
+Uuid: BVppJJWdL3yT7thC

@@ -1,0 +1,33 @@
+Title: NOI Techpark
+
+----
+
+Img: - file://62gwlrTLvLre5cf7
+
+----
+
+Description: 
+
+----
+
+Address: Voltastr. 13 Via Volta
+
+----
+
+City: Bozen / Bolzano
+
+----
+
+Lon: 11.333655226425
+
+----
+
+Lat: 46.478846485456
+
+----
+
+Mapslink: https://goo.gl/maps/jczVbRpfnusHbfBX7
+
+----
+
+Uuid: svYY3loMQ10P2Zbj

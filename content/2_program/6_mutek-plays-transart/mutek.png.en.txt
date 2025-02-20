@@ -1,0 +1,13 @@
+Uuid: VstG6BPRMRhBXwdU
+
+----
+
+Template: logos
+
+----
+
+Sort: 1
+
+----
+
+Credittype: collaboration

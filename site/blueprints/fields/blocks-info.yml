@@ -1,0 +1,14 @@
+
+label: Available blocks
+type: info
+text: |
+  **heading**
+  Single column
+
+  **text**
+  Distributes in 2 cols on large screens. In any case the text is layed out in one single flow.
+
+  **two-cols**
+  Allows to explicitely distribute content between the first and the second column.
+  On small devices the columns are piled
+  Options: [invert order]

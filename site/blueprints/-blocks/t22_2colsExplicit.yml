@@ -1,0 +1,10 @@
+name: Two columns (explicitly arranged)
+fields:
+  text1:
+    label: Contens column 1
+    type: textarea
+    width: 1/2
+  text2:
+    label: Contens column 2
+    type: textarea
+    width: 1/2

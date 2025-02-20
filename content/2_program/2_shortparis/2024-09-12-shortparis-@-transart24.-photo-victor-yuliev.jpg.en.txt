@@ -1,0 +1,9 @@
+Credittext: Photo © Victor Yuliev
+
+----
+
+Uuid: lmuMIrHkL4zz75bC
+
+----
+
+Template: img-with-credits

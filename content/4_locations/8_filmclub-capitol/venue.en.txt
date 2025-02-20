@@ -1,0 +1,33 @@
+Title: Filmclub Capitol
+
+----
+
+Img: - file://VmrWGIHCERyYmfRB
+
+----
+
+Description: 
+
+----
+
+Address: Dr. Streitergasse 8/D Via Dottor Streiter
+
+----
+
+City: Bozen / Bolzano
+
+----
+
+Lon: 11.356557471767
+
+----
+
+Lat: 46.500330290184
+
+----
+
+Mapslink: https://goo.gl/maps/9RaykLRuMN7jVYZW9
+
+----
+
+Uuid: ZpBicboDW59mhPZj

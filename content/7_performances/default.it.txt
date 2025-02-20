@@ -1,0 +1,13 @@
+Title: Performances
+
+----
+
+Intro: Le **PERFORMANCES** di quest'anno comprendono una serie di eventi, dalla musica elettronica e sperimentale al teatro, alla performance, alla danza e molto altro ancora. L'edizione 2023 del festival porterà in Alto Adige Pussy Riot, Madame Nielsen, Florentina Holzinger e molti altri: visitate il programma intero per scoprire tutti gli eventi!
+
+----
+
+Contentblocks: [{"content":{"spacesize":"custom","custommargin":"-20px"},"id":"1c12a0f2-16ee-4683-80ee-b42329781f2e","isHidden":false,"type":"t23_space"},{"content":{"btntext":"Scopri tutti le PERFORMANCE","btnurl":"program/category:performances","marginbottom":"true"},"id":"6f117c1e-e1ed-40be-8010-10ceed182473","isHidden":false,"type":"t23_buttonBling"}]
+
+----
+
+Category: experiences

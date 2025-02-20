@@ -1,0 +1,93 @@
+Title: IN MEDEAS RES
+
+----
+
+Subtitle: Liquid Loft / Chris Haring
+
+----
+
+Category: performances
+
+----
+
+Img: - file://psIqUacB0e4NQ9OR
+
+----
+
+Archived: false
+
+----
+
+Description: The protagonist of IN MEDEAS RES, the latest creation of the renowned Vienna-based company Liquid Loft, is the ancient figure of Medea—and, more precisely, the Medea embodied by the legendary opera diva Maria Callas in Pier Paolo Pasolini's 1969 film of the same name. Inspired by the Italian director, choreographer Chris Haring and the dancers at Liquid Loft give life to an ambiguous, ambivalent creature that crosses the boundaries of the mythical world with a grotesque movement. In an interplay of hedonism and realism made up of bodies, sounds and utopian tableaux vivants, we can experience how new orders replace existing ones; all that is young withers away, and the metaphysical disappears. Liquid Loft was founded in 2005. With their methods of deconstructing dance movements and shifting acoustic levels, the company opens up new fields of choreographic action and connects contemporary dance with other contemporary art forms.
+
+----
+
+Startdate: 2024-09-13
+
+----
+
+Hasenddate: false
+
+----
+
+Enddate: 
+
+----
+
+Starttime: 20:30:00
+
+----
+
+Hasendtime: false
+
+----
+
+Endtime: 
+
+----
+
+Place: locations/noi-techpark
+
+----
+
+Eventtags: dance
+
+----
+
+Ticketbutton: true
+
+----
+
+Tickettext: 
+
+----
+
+Ticketprice: 20/15
+
+----
+
+Ticketlink: 
+
+----
+
+Detailsitems:
+
+- 
+  itemtype: star
+  itemlabel: Ticket note
+  itemtext: >
+    ★ This ticket also includes admission
+    to the performance FEMINA at NOI
+    Techpark Bolzano on September 13.
+
+----
+
+Related: 
+
+----
+
+Past: false
+
+----
+
+Uuid: SItaBsvVFeVrewVP

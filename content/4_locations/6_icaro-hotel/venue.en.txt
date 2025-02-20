@@ -1,0 +1,33 @@
+Title: ICARO Hotel
+
+----
+
+Img: - file://2QtXcZopOtg7fs0B
+
+----
+
+Description: 
+
+----
+
+Address: Piz 18/1 Seiser Alm / Alpe di Siusi
+
+----
+
+City: Kastelruth / Castelrotto
+
+----
+
+Lat: 46.547711725419
+
+----
+
+Lon: 11.645621326259
+
+----
+
+Mapslink: https://goo.gl/maps/tvQYR2uMoG6rKA3F7
+
+----
+
+Uuid: GcICo85HL6C8c8lh

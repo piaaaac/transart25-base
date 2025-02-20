@@ -1,0 +1,9 @@
+Title: Transparenz
+
+----
+
+Intro: (file: 20240305_fus_trasparenza_comitato_incarichi_contributi.pdf text: Beauftragungen und Beiträge)
+
+----
+
+Contentblocks: [{"content":{"colnum":"col1","text1a":"## Verein Transart","text2a":"","text2b":"","text3a":"","text3b":"","text3c":"","marginbottom":"false"},"id":"f9d199ff-3484-4af8-af2c-c838d4594d2c","isHidden":false,"type":"t23_multicolumns"},{"content":{"items":[{"itemtext":"**President**\n(file: cv-pichler.pdf text: Tanja Pichler)"},{"itemtext":"**Vice-president**\n(file: cv-niederstaetter-daniela.pdf text: Daniela Niederstätter)"},{"itemtext":"**Board of directors**\n(file: cv-bertagnolli.pdf text: Manuela Bertagnolli)\n(file: cv-giudiceandrea.pdf text: Arianna Giudiceandrea)\n(file: cv-oberrauch.pdf text: Ruth Oberrauch)"},{"itemtext":"**Members**\n(file: cv-alberti.pdf text: Marina Alberti)\n(file: cv-demetz.pdf text: Eduard Demetz)\n(file: cv-kainrath.pdf text: Peter Paul Kainrath)\n(file: cv-lageder-it.pdf text: Alois Lageder)\n(file: cv-messini.pdf text: Traudi Messini)\n(file: cv-niederstatter-maria.pdf text: Maria Niederstätter)\n(file: cv-stillhard.pdf text: Urban Stillhard)\n(file: cv-von-herbstenburg.pdf text: Anton von Walther)"}],"marginbottom":"true"},"id":"7e037d92-36b1-4a43-94b7-23f9c0a36161","isHidden":false,"type":"t22_threeColsList"},{"content":{"colnum":"col1","text1a":"## Contact\n\nTransart Festival\nDantestr. 28 Via Dante\nBozen BZ 39100\nP.I. / C.F. 02280130218\nEmpfängercode W7YVJK9\nT: 0039 0471 665369\nE: info@transart.it","text2a":"","text2b":"","text3a":"","text3b":"","text3c":"","marginbottom":"true"},"id":"8da715a6-bdcf-4262-b6df-b36f319158bf","isHidden":false,"type":"t23_multicolumns"}]

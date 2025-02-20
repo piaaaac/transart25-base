@@ -1,0 +1,134 @@
+Title: EXHAUST
+
+----
+
+Subtitle: Kris Verdonck / A Two Dogs Company
+
+----
+
+Category: performances
+
+----
+
+Img: - file://VWcbooOuKy9n7bbW
+
+----
+
+Archived: false
+
+----
+
+Description:
+
+EXHAUST/Ajax, by artist and stage director Kris Verdonck, celebrates the public execution of an internal combustion engine: carried along in a lengthy procession, the motor engine is revved up until it finally explodes. The engine is one of the most significant and impactful inventions of the last century: its advantages are immense, as is the ecological cost of its widespread use. This must come to an end: we must change, and this change requires sacrifice.
+
+EXHAUST re-enacts the format of a medieval execution. The accused—in this case, the internal combustion engine—is dragged through the city at the head of a procession, beginning at the OASIE Transart in Via Dante. After a reading of the crimes and condemnations—such as the unfulfilled promises of endless progress and growth—the sentence is carried out. The performance follows the methods of Greek tragedies, Japanese Nō theatre or Shakespeare: mythological sacrifice as a violent ritual to resolve conflict; brutal violence as a purifying force.
+
+----
+
+Startdate: 2024-09-12
+
+----
+
+Hasenddate: true
+
+----
+
+Enddate: 2024-09-19
+
+----
+
+Starttime: 18:00:00
+
+----
+
+Hasendtime: true
+
+----
+
+Endtime: 22:00:00
+
+----
+
+Place: locations/oasie-transart
+
+----
+
+Eventtags: march, performance
+
+----
+
+Ticketbutton: false
+
+----
+
+Tickettext: Ticket free event
+
+----
+
+Ticketprice: 
+
+----
+
+Ticketlink: 
+
+----
+
+Detailsitems:
+
+- 
+  itemtype: star
+  itemlabel: ""
+  itemtext: ✦ Italian Premiere
+- 
+  itemtype: normal
+  itemlabel: Credits
+  itemtext: |
+    **Director / Concept**
+    Kris Verdonck
+    
+    **Text**
+    Kris Verdonck
+    
+    **Dramaturgy**
+    Kristof Van Baarle
+    
+    **Costumes**
+    Sofie Durnez
+    
+    **Technicians**
+    Daniel Romero Calderon
+    Vincent Malstaf
+    Thomas Glorieux
+    Koen Demeyere
+    Maarten Devrieze
+    Paul Liefooghe
+    
+    **Coordination**
+    Britt Roger Sas
+    
+    **Production**
+    A Two Dogs Company
+    
+    **Coproduction**
+    NTGent, Wiener Festwochen
+    
+    **With the support of** the Flemish Authorities, the Flemish Community Commission (VGC)
+- 
+  itemtype: info
+  itemlabel: Route
+  itemtext: |
+    **Route**
+    OASIE Transart → NOI Techpark → Quartier Rombrücke/Quartiere Ponte Roma
+
+----
+
+Related: 
+
+----
+
+Past: false
+
+----
+
+Uuid: m25U0VWg4mSpwjPR

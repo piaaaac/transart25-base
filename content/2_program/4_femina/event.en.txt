@@ -1,0 +1,96 @@
+Title: FEMINA
+
+----
+
+Subtitle: Riccardo Giovinetto
+
+----
+
+Category: performances
+
+----
+
+Img: - file://1E6Ufy0ugh9mJc6x
+
+----
+
+Archived: false
+
+----
+
+Description: FEMINA is a real-time audiovisual installation that explores the idea of grace, and the gaze that defines it. Giovinetto's perspective on beauty is based on the tradition of Italian Renaissance painting: the female portraits by artists such as Leonardo, Botticelli and Piero della Francesca are deconstructed and digitally reworked in a unique interplay with the music of composer Giovanni Pierluigi da Palestrina. The vocal polyphonies of the 16th-century master are completely reworked, altered by processes that distort their nature and allow them to be overlaid with electronic sounds. The gazes of the painters, as well as of those depicted in their works, are absorbed in a process that in turn establishes a third: a gaze that is abstracted within the rules of its own numerical language. While the artist has not made direct use of artificial intelligence, it is as if the latter were part of this reworking: an external eye that can be trained and that, through the decomposition and recomposition of the primary elements that make up these paintings—dots, lines, colours—attempts to learn and recreate, in its own way, the idea of beauty typical of the Italian Renaissance.  
+
+----
+
+Startdate: 2024-09-13
+
+----
+
+Hasenddate: false
+
+----
+
+Enddate: 
+
+----
+
+Starttime: 22:00:00
+
+----
+
+Hasendtime: false
+
+----
+
+Endtime: 
+
+----
+
+Place: locations/noi-techpark
+
+----
+
+Eventtags: 
+
+----
+
+Ticketbutton: true
+
+----
+
+Tickettext: 
+
+----
+
+Ticketprice: 20/15
+
+----
+
+Ticketlink: 
+
+----
+
+Detailsitems:
+
+- 
+  itemtype: normal
+  itemlabel: ""
+  itemtext: |
+    **A project by** Riccardo Giovinetto
+    
+    **Concept, composition &  programming**
+    Riccardo Giovinetto
+    
+    **Light design** Andrea Sangiorgi, Lorenzo Forges
+
+----
+
+Related: 
+
+----
+
+Past: false
+
+----
+
+Uuid: hExNu5dLc9STQTeX

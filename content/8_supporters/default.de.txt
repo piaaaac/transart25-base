@@ -1,0 +1,13 @@
+Title: Supporters
+
+----
+
+Intro: Seit mehr als 20 Jahren ist Transart **ein Bezugspunkt für das internationale Publikum zeitgenössischer Kunst** und ein fester Bestandteil des kulturellen Lebens der Region, in der es stattfindet.
+
+----
+
+Contentblocks: [{"content":{"colnum":"col1","text1a":"Seit der ersten Ausgabe genießt Transart die Anerkennung und Unterstützung von privaten Unternehmen, kulturellen Institutionen und öffentlichen Einrichtungen, die an unser Projekt und unsere Herausforderungen geglaubt haben.\n\nUnternehmen, die Interesse an einer Unterstützung haben, können uns gerne kontaktieren, um gemeinsam mit uns gezielte Werbe-und Marketing-Aktionen auszuarbeiten.\n\nWenn Sie eine private Einrichtung sind und mit uns Kontakt aufnehmen möchten, um das Festival zu unterstützen, oder wenn Sie verstehen möchten, welche Möglichkeiten der Zusammenarbeit sich ergeben könnten, schreiben Sie an *(email: info@transart.it text: info@transart.it)*.","text2a":"","text2b":"","text3a":"","text3b":"","text3c":"","marginbottom":"false"},"id":"e24cc55d-27ee-4f39-8589-6ae752f2779e","isHidden":false,"type":"t23_multicolumns"},{"content":{"spacesize":"one","custommargin":""},"id":"9a8b477b-a95b-4421-b5e9-d8bb2edc2c03","isHidden":false,"type":"t23_space"}]
+
+----
+
+Text: 

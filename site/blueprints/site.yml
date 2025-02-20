@@ -1,0 +1,69 @@
+tabs:
+
+  tab_site:
+    label: Content
+    columns:
+      - 1/1:
+        sections:
+
+          # meta:
+          #   type: fields
+          #   fields:
+              
+          pages:
+            type: pages
+            create: default
+
+  tab_settings:
+    label: Site settings
+    columns:
+      - 1/1:
+        sections:
+
+          meta2:
+            type: fields
+            fields:
+
+              menuItems:
+                type: structure
+                label: Menu items
+                translate: false
+                fields:
+                  menuPage:
+                    width: 1/4
+                    type: pages
+                    min: 1
+                    max: 1
+                  menuTextEn:
+                    label: Text EN
+                    width: 1/4
+                    type: text
+                  menuTextIt:
+                    label: Text IT
+                    width: 1/4
+                    type: text
+                  menuTextDe:
+                    label: Text DE
+                    width: 1/4
+                    type: text
+                  active:
+                    type: toggle
+                    
+
+              # cookieBanner:
+              #   label: Cookie banner text
+              #   type: textarea
+              #   width: 1/2
+              
+              socialDescription:
+                type: textarea
+                width: 1/2
+              
+              socialImage:
+                type: files
+                min: 1
+                max: 1
+                help: "1200x630 px"
+                width: 1/2
+                translate: false
+              

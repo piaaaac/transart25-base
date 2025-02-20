@@ -1,0 +1,33 @@
+Title: Rothoblaas
+
+----
+
+Img: - file://EAMBkomcNfW0zYrL
+
+----
+
+Description: 
+
+----
+
+Address: Via dell'Adige / Etschweg 2/1, Cortaccia sulla strada del vino / Kurtatsch an der Weinstraße
+
+----
+
+City: Bolzano / Bozen
+
+----
+
+Lat: 46.290763482831
+
+----
+
+Lon: 11.237468863517
+
+----
+
+Mapslink: https://goo.gl/maps/LV4sRoBNC2rsmkZ49
+
+----
+
+Uuid: NmDz0RDGoK1umCWs

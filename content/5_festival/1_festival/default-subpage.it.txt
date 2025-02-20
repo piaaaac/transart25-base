@@ -1,0 +1,20 @@
+Title: Il festival
+
+----
+
+Contentblocks: [{"content":{"spacesize":"one","custommargin":""},"id":"f0e7a2ca-ac6e-40e0-984b-8a309a4997af","isHidden":false,"type":"t23_space"},{"content":{"colnum":"col1","text1a":"## Il festival","text2a":"","text2b":"","text3a":"","text3b":"","text3c":"","marginbottom":"false"},"id":"e0beaab1-e5c2-490c-a4ce-3bfa0e6668fb","isHidden":false,"type":"t23_multicolumns"},{"content":{"colnum":"col1","text1a":"Transart è un festival diffuso, che da più di venti anni anima il territorio del Trentino-Alto Adige. Partendo da Bolzano, centro nevralgico del Festival, le sue iniziative vengono presentate in tutta la Regione da nord a sud, creando una piattaforma contemporanea interregionale e transfrontaliera.\u2028 In tutti questi anni ha inoltre collaborato con moltissime realtà a livello locale e con importanti festival internazionali, come (link: https://montreal.mutek.org/ target: _blank text: MUTEK Montreal), (link: https://clubtoclub.it/ target: _blank text: Club To Club), Maerz Musik Berlin, (link: https://klangspuren.at/en target: _blank text: Klangspuren Schwaz), (link: https://elevate.at/ target: _blank text: Elevate Festival).\n\nNelle sue edizioni passate Transart ha avuto il piacere di ospitare centinaia di artistə provenienti dall’intero panorama internazionale. Tra questə ricordiamo:\u2028Marina Abramovic (2002), Laurie Anderson (2003, 2011), Blixa Bargeld (2013), Matthew Barley (2005), Nils Frahm (2014), Beat Furrer (2004, 2011, 2013, 2015), Jon Hopkins (2013), Matthew Jonson (2017), Jannis Kounellis (2004), Klangforum Wien (2005, 2010, 2015, 2020), Tomoko Makaiyama (2016, 2018), Moataz Nasr (2013), Ninos Du Brasil (2017), Quiet Ensemble (2015), Sonic Youth (2008), Patti Smith (2010), Omar Souleyman (2016), Teho Teardo (2013), Tokyo Contemporary Dance (2002), Roman Signer (2014, 2017, 2020), Peaches (2021),  Attila Csihar (2022), Pussy Riot (2023), Florentina Holzinger (2023), Madame Nielsen (2023), Thomas Bangalter (2023) and Patha du Prince (2023) e tantissimə altrə.","text2a":"","text2b":"","text3a":"","text3b":"","text3c":"","marginbottom":"false"},"id":"f3c0fadb-891d-42d6-82bf-321ce9d4a70a","isHidden":false,"type":"t23_multicolumns"},{"content":{"colnum":"col2","text1a":"","text2a":"(image: ta20-hq_63a5195.jpg)\n\n(tiny: Photo: Tiberio Sorvillo)","text2b":"(image: 2021-09-09.jpg)\n\n(tiny: Photo: Tiberio Sorvillo)","text3a":"","text3b":"","text3c":"","marginbottom":"true"},"id":"ee98f206-7bb8-4a2b-982c-1c898f288ef0","isHidden":false,"type":"t23_multicolumns"}]
+
+----
+
+Text:
+
+# The festival
+
+TRANSART is a popular festival that has been making waves in the Trentino Alto Adige area for more than twenty years.
+Starting in Bolzano, the nerve center of the festival, events take place across the region, from north to south, creating a contemporary, inter-regional, and cross-border platform.
+In past editions, TRANSART has had the pleasure of hosting hundreds of artists spanning the international scene. Notable guests have included: Marina Abramovic (2002), Laurie Anderson (2003, 2011), Blixa Bargeld (2013), Matthew Barney (2005), Nils Frahm (2014), Beat Furrer (2004, 2011, 2013, 2015), Jon Hopkins (2013), Matthew Jonson (2017), Jannis Kounellis (2004), Klangforum Wien (2005, 2010, 2015, 2020), Tomoko Mukaiyama (2016, 2018), Moataz Nasr (2013), Ninos Du Brasil (2017), Quiet Ensemble (2015), Sonic Youth (2008), Patti Smith (2010), Omar Souleyman (2016), Teho Teardo (2013), Tokyo Contemporary Dance (2002), Roman Signer (2014, 2017, 2020), and many more.
+Over the years, the festival has also collaborated with many local organisations and with important international festivals, such as MUTEK Montreal, Club To Club, Maerz Musik Berlin, Klangspuren Schwaz, and Elevate Festival.
+
+----
+
+Intro: 

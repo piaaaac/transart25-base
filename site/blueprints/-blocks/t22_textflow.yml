@@ -1,0 +1,4 @@
+name: Text flow
+fields:
+  text:
+    type: textarea

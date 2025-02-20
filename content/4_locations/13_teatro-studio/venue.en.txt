@@ -1,0 +1,33 @@
+Title: Teatro Studio
+
+----
+
+Img: - file://UO4zMtWEVbo3tDvc
+
+----
+
+Description: 
+
+----
+
+Address: Verdiplatz 40 Piazza Verdi
+
+----
+
+City: Bozen / Bolzano
+
+----
+
+Lon: 11.356305262994
+
+----
+
+Lat: 46.496302192832
+
+----
+
+Mapslink: https://goo.gl/maps/f65LFMTuQaEZrb8M9
+
+----
+
+Uuid: ww9cZCkmYP6ZuHdu

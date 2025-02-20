@@ -1,0 +1,17 @@
+title: Event logos
+
+fields:
+  
+  creditType:
+    width: 1/2
+    label: Type
+    type: select
+    default: collaboration
+    options:
+      thanks: Thanks to
+      collaboration: In collaboration with
+
+  linkUrl:
+    width: 1/2
+    label: Link url
+    type: url

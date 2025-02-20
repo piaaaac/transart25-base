@@ -1,0 +1,33 @@
+Title: ECK Museum of Art
+
+----
+
+Img: - file://P5NbAWuR8QU58fDW
+
+----
+
+Description: 
+
+----
+
+Address: Bruder-Willram-Straße, 1 Via Bruder Willram
+
+----
+
+City: Bruneck / Brunico
+
+----
+
+Lon: 11.942179840761
+
+----
+
+Lat: 46.796852889057
+
+----
+
+Mapslink: https://goo.gl/maps/hLLdSgbojWAtyPBj6
+
+----
+
+Uuid: ZmWOPNzXfvb19PCL

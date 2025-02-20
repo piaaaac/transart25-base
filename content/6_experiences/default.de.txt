@@ -1,0 +1,13 @@
+Title: Experiences
+
+----
+
+Intro: Die 23. Ausgabe von Transart umfasst auch eine Reihe von **EXPERIENCES**, dabei handelt es sich um kostenlose Initiativen, die für die intensive Teilnahme des Publikums gedacht sind: Gespräche und Begegnungen mit Kunstschaffenden, Workshops, Labore für Kinder, eine Ausstellung, ortsspezifische Architektur und vieles mehr. Alle Experiences unseres Programms können in der **Transart OASIE** erlebt werden—einem Zentrum für kreativen Austausch im Herzen von Bozen.
+
+----
+
+Contentblocks: [{"content":{"spacesize":"custom","custommargin":"-20px"},"id":"645c3a74-613c-4666-9484-569f14c35a6d","isHidden":false,"type":"t23_space"},{"content":{"btntext":"Alle EXPERIENCES entdecken","btnurl":"program/category:experiences","marginbottom":"false"},"id":"6f117c1e-e1ed-40be-8010-10ceed182473","isHidden":false,"type":"t23_buttonBling"},{"content":{"spacesize":"one","custommargin":"-50px"},"id":"c5385307-0ae3-46d8-86e0-da02e4a14aaa","isHidden":false,"type":"t23_space"}]
+
+----
+
+Category: experiences

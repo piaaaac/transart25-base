@@ -1,0 +1,33 @@
+Title: OASIE Transart
+
+----
+
+Img: - file://Oj0w6PLZRtV18vpd
+
+----
+
+Description: Open every day 17:00 - 20:00. 15/16/17.09 open 15:00 - 20:00
+
+----
+
+Address: Dantestr. 32 via Dante
+
+----
+
+City: Bozen / Bolzano
+
+----
+
+Lat: 46.495426932264
+
+----
+
+Lon: 11.349761513085
+
+----
+
+Mapslink: https://goo.gl/maps/bumZJvYNJDDXh4Hh9
+
+----
+
+Uuid: z2vOpRl2xMARe6tl

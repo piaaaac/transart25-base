@@ -1,0 +1,228 @@
+
+# Using plugin: https://github.com/jongacnik/kirby-fields-block
+# to show block fields instead of field preview
+
+label: Content blocks
+type: blocks
+fieldsets:
+
+  t23_accordion:
+    name: Accordion
+    preview: fields
+    wysiwyg: true
+    icon: dashboard
+    fields:
+      items:
+        label: Items
+        type: structure
+        fields: 
+          itemTitle:
+            type: textarea
+          itemText:
+            type: textarea
+      marginBottom: # --- option "data-margin-bottom"
+        type: toggle
+        label: Margin bottom
+        default: true
+        width: 1/2
+
+  t23_textImgCta:
+    name: Text-Image-CTA
+    preview: fields
+    wysiwyg: true
+    icon: dashboard
+    fields:
+      text1:
+        label: Text 1
+        type: textarea
+        width: 1/2
+        help: On mobile devices this appears before the image
+      imgs:
+        label: Images
+        # translate: false
+        type: files
+        width: 1/2
+      text2:
+        label: Text 2
+        type: textarea
+        width: 1/2
+        help: On mobile devices this appears after the image
+      marginBottom: # --- option "data-margin-bottom"
+        type: toggle
+        label: Margin bottom
+        default: true
+        width: 1/2
+
+  t23_multicolumns:
+    name: Multi-columns
+    preview: fields
+    wysiwyg: true
+    icon: dashboard
+    fields:
+      colNum:
+        type: toggles
+        label: Columns 
+        options: 
+          col1: "1 column"
+          col2: "2 columns"
+          col3: "3 columns"
+        default: col2
+        required: true
+        grow: false
+      text1A:
+        label: Contents column 1
+        type: textarea
+        width: 1/1
+        when:
+          colNum: col1
+      text2A:
+        label: Contents column 1
+        type: textarea
+        width: 1/2
+        when:
+          colNum: col2
+      text2B:
+        label: Contents column 2
+        type: textarea
+        width: 1/2
+        when:
+          colNum: col2
+      text3A:
+        label: Contents column 1
+        type: textarea
+        width: 1/3
+        when:
+          colNum: col3
+      text3B:
+        label: Contents column 2
+        type: textarea
+        width: 1/3
+        when:
+          colNum: col3
+      text3C:
+        label: Contents column 3
+        type: textarea
+        width: 1/3
+        when:
+          colNum: col3
+      marginBottom: # --- option "data-margin-bottom"
+        type: toggle
+        label: Margin bottom
+        default: true
+        width: 1/2
+
+  t23_buttonBling:
+    name: Button bling
+    preview: fields
+    wysiwyg: true
+    icon: dashboard
+    fields:
+      btnText:
+        label: Text
+        type: text
+        width: 1/2
+      btnUrl:
+        label: Url
+        type: text
+        width: 1/2
+      marginBottom: # --- option "data-margin-bottom"
+        type: toggle
+        label: Margin bottom
+        default: true
+        width: 1/2
+
+  t23_space:
+    name: Space
+    preview: fields
+    wysiwyg: true
+    icon: dashboard
+    fields:
+      spaceSize:
+        type: toggles
+        label: Space size
+        options: 
+          one: "50px"
+          two: "100px"
+          three: "150px"
+          custom: other
+        default: one
+        required: true
+        width: 1/2
+      customMargin:
+        label: Custom margin
+        type: text
+        when:
+          spaceSize: custom
+        width: 1/2
+
+  t24_slider:
+    name: Image slideshow
+    preview: fields
+    wysiwyg: true
+    icon: file-image
+    fields:
+      aspectRatioHorizontal:
+        type: number
+        label: Aspect ratio horizontal
+        default: 16
+        required: true
+        help: "The '16' in 16/9"
+        width: 1/4
+      aspectRatioVertical:
+        type: number
+        label: Aspect ratio vertical
+        default: 9
+        required: true
+        help: "The '9' in 16/9"
+        width: 1/4
+      width:
+        type: toggles
+        label: Width
+        options: 
+          full: "Full"
+          grid100: "Grid width"
+          grid66: "2/3 Grid"
+          grid50: "1/2 Grid"
+        default: grid
+        required: true
+        width: 1/2
+      imgs:
+        type: files
+        label: Image
+        min: 1
+        layout: cards
+        size: tiny
+        image: 
+          ratio: 1/1
+          back: white
+          cover: false
+      mode:
+        type: toggles
+        label: Change slide
+        options: 
+          auto3: "Every 3 seconds"
+          auto5: "Every 5 seconds"
+          manual: "Manually"
+        default: auto3
+        required: true
+        # width: 1/2
+
+  t22_threeColsList:
+    name: Items / 3 columns
+    preview: fields
+    wysiwyg: true
+    icon: list-bullet
+    fields:
+      items:
+        type: structure
+        label: Items
+        fields: 
+          itemText:
+            type: textarea
+            label: Text
+      marginBottom: # --- option "data-margin-bottom"
+        type: toggle
+        label: Margin bottom
+        default: true
+        width: 1/2
+

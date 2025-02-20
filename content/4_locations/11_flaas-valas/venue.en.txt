@@ -1,0 +1,33 @@
+Title: Taberhof Flaas / Maso Taber Valas
+
+----
+
+Img: - file://BjPRFCN9FBtLxfgL
+
+----
+
+Description: 
+
+----
+
+Address: Flaas 2 Valas
+
+----
+
+City: Jenesien / San Genesio Atesino
+
+----
+
+Lat: 46.583471314573
+
+----
+
+Lon: 11.295526668257
+
+----
+
+Mapslink: https://goo.gl/maps/yoK8h3Sxf99pHunG7
+
+----
+
+Uuid: 9aOdbF6rlloujpFn

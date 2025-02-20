@@ -1,0 +1,25 @@
+title: Program (Post event)
+sections:
+
+  meta:
+    type: fields
+    fields:
+
+      intro:
+        type: textarea
+        size: tiny
+        help: Large white text on black background
+
+      contentBlocks:
+        extends: fields/blocks-field
+
+  events:
+    type: pages
+    create: event
+    layout: cards
+    sortBy: startDate
+    info: "{{ page.startDate.toDate('d.m') }}"
+    limit: 100
+    image:
+      cover: true
+      query: page.img.toFile

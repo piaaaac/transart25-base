@@ -1,0 +1,243 @@
+title: Event
+columns:
+  - 1/1:
+    sections:
+      meta1:
+        type: fields
+        fields:
+          subtitle:
+            type: text
+            width: 2/3
+
+          category:
+            translate: false
+            type: radio
+            default: performances
+            options:
+              performances: Performances
+              experiences: Experiences
+            width: 1/3
+
+          img:
+            translate: false
+            type: files
+            min: 1
+            max: 1
+            width: 2/3
+            uploads:
+              template: img-with-credits
+
+          # past:
+          #   translate: false
+          #   type: toggle
+          #   text:
+          #     - "No"
+          #     - "Yes"
+          #   width: 1/3
+
+          archived:
+            translate: false
+            type: toggle
+            text:
+              - "No"
+              - "Yes"
+            width: 1/3
+            when:
+              past: true
+
+          # ------------
+          # ARCHIVE
+          # also videos (maybe from vimeo or youtube)
+
+          # slideshow:
+          #   translate: false
+          #   type: files
+          #   when:
+          #     archived: true
+
+          # ------------
+
+          description:
+            label: Event description
+            type: textarea
+
+          startDate:
+            translate: false
+            required: true
+            type: date
+            width: 1/3
+            min: 2024-06-10
+            max: 2024-09-30
+
+          hasEndDate:
+            translate: false
+            type: toggle
+            width: 1/3
+
+          endDate:
+            translate: false
+            type: date
+            width: 1/3
+            min: 2024-06-10
+            max: 2024-09-30
+            when:
+              hasEndDate: true
+
+          gapDate:
+            type: gap
+            width: 1/3
+            when:
+              hasEndDate: false
+
+          startTime:
+            translate: false
+            required: true
+            type: time
+            width: 1/3
+
+          hasEndTime:
+            translate: false
+            type: toggle
+            width: 1/3
+
+          endTime:
+            translate: false
+            type: time
+            width: 1/3
+            when:
+              hasEndTime: true
+
+          gapTime:
+            type: gap
+            width: 1/3
+            when:
+              hasEndTime: false
+
+          place:
+            label: Venue
+            type: select
+            translate: false
+            required: true
+            width: 1/2
+            options:
+              type: query
+              query: site.find('locations').children.listed
+
+          eventTags:
+            label: Tags
+            translate: false
+            type: multiselect
+            width: 1/2
+            options:
+              # --- Transart 24 via Lucia Buffa
+              clubbing: clubbing
+              dance: dance
+              digitalart: digitalart
+              exhibition: exhibition
+              experience: experience
+              kidscultureclub: kidscultureclub
+              lecture: lecture
+              march: march
+              movie: movie
+              music: music
+              nobodysvillage: nobodysvillage
+              parade: parade
+              performance: performance
+              poetry: poetry
+              talk: talk
+              theatre: theatre
+              workshop: workshop
+
+              # --- Transart 23
+              # clubbing: clubbing
+              # dance: dance
+              # exhibition: exhibition
+              # # experience: experience
+              # kidscultureclub: kidscultureclub
+              # movie: movie
+              # music: music
+              # # performance: performance
+              # talk: talk
+              # theatre: theatre
+              # workshop: workshop
+
+          # --- Ticket start
+
+          ticketButton:
+            translate: false
+            type: toggle
+            default: true
+            width: 1/2
+
+          gapTicket:
+            type: gap
+            width: 1/3
+            when:
+              ticketButton: true
+
+          ticketText:
+            type: text
+            width: 1/2
+            maxlength: 20
+            when:
+              ticketButton: false
+
+          ticketPrice:
+            translate: false
+            type: text
+            width: 1/2
+            after: "€"
+            when:
+              ticketButton: true
+
+          ticketLink:
+            translate: false
+            width: 1/2
+            type: url
+            when:
+              ticketButton: true
+
+          # --- Ticket end
+
+          detailsItems:
+            label: Event details
+            type: structure
+            fields:
+              itemType:
+                type: select
+                options:
+                  normal: Normal
+                  star: Small highlight (★)
+                  info: info (▶)
+                default: normal
+                width: 1/3
+              itemLabel:
+                type: text
+                width: 1/3
+              itemText:
+                type: textarea
+                width: 1/3
+
+      logos:
+        translate: false
+        type: files
+        layout: cardlets
+        size: tiny
+        template: logos
+        image:
+          back: white
+          ratio: 2/1
+        help: "NB: images are cropped to a squared ratio"
+        info: "{{file.creditType}}"
+
+      meta2:
+        type: fields
+        fields:
+          related:
+            translate: false
+            type: pages
+            query: site.find('program')
+
+      allfiles:
+        label: All files
+        type: files

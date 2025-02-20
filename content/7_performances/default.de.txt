@@ -1,0 +1,13 @@
+Title: Performances
+
+----
+
+Intro: Die diesjährigen **PERFORMANCES** umfassen eine Vielzahl von Veranstaltungen, von elektronischer und experimenteller Musik bis hin zu Theater, Performance, Tanz und vielem mehr. Die Festivalausgabe 2023 bringt unter anderem Pussy Riot, Madame Nielsen, Florentina Holzinger und viele mehr nach Südtirol: Entdecken Sie alle Veranstaltungen in unserem Programm!
+
+----
+
+Contentblocks: [{"content":{"spacesize":"custom","custommargin":"-20px"},"id":"b17de425-6c39-4375-9b59-0dfdcbf9b875","isHidden":false,"type":"t23_space"},{"content":{"btntext":"Alle PERFORMANCES anzeigen","btnurl":"program/category:performances","marginbottom":"true"},"id":"6f117c1e-e1ed-40be-8010-10ceed182473","isHidden":false,"type":"t23_buttonBling"}]
+
+----
+
+Category: experiences

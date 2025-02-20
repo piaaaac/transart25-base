@@ -1,0 +1,33 @@
+Title: Showgirl Discosexy
+
+----
+
+Img: - file://kWh6Hm88Itd4V7gk
+
+----
+
+Description: 
+
+----
+
+Address: Werner Von Siemens Straße 14/A via Werner Von Siemens
+
+----
+
+City: Bozen / Bolzano
+
+----
+
+Lon: 11.32689832388
+
+----
+
+Lat: 46.481595060959
+
+----
+
+Mapslink: https://goo.gl/maps/FqwWsRZV6QvsUSrw8
+
+----
+
+Uuid: bphJd9xSF1S0buVd

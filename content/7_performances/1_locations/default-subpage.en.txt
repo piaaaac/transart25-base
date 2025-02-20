@@ -1,0 +1,9 @@
+Title: Locations
+
+----
+
+Contentblocks: [{"content":{"text1":"## Locations\n\nTransart is a diverse festival that has made waves in the region of Trentino-South Tyrol for more than twenty years. Based in Bolzano, the heart of the festival, its events reach across the region from north to south, creating a contemporary interregional and cross-border platform.\n\n(link: locations class: button text: See all locations)","imgs":["file://4MZ6WL3F7uyeEpKk"],"text2":"","marginbottom":"true"},"id":"ee521d02-91d0-460d-9495-b4843e998a64","isHidden":false,"type":"t23_textImgCta"}]
+
+----
+
+Uuid: 8gRDCCYvvqtPNgJn

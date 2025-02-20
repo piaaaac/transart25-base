@@ -1,0 +1,33 @@
+Title: Niederstätter
+
+----
+
+Img: - file://5WyF4dwauGVLUHch
+
+----
+
+Description: 
+
+----
+
+Address: Blumauer Str. 6 Via Prato Isarco, Steg in Valle Isarco / Steg im Eisacktal
+
+----
+
+City: Steg im Eisacktal / Steg in Valle Isarco
+
+----
+
+Lat: 46.513881658783
+
+----
+
+Lon: 11.480169780252
+
+----
+
+Mapslink: https://goo.gl/maps/8PKskUVvEA8gSnse7
+
+----
+
+Uuid: 8OrjTxcy5scnlzaS

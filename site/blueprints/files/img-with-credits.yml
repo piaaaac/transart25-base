@@ -1,0 +1,8 @@
+title: Image with credits
+
+fields:
+  
+  creditText:
+    width: 1/2
+    label: Credits
+    type: text

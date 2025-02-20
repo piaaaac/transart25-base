@@ -1,0 +1,215 @@
+Title: Archiv
+
+----
+
+Intro: Seit 2001 wächst und entwickelt sich *Transart* weiter, erkundet neue Orte und neue Wege, die Öffentlichkeit einzubeziehen. Auf dieser Seite können Sie das Webarchiv aller vergangenen Ausgaben durchsuchen.
+
+----
+
+Items:
+
+- 
+  img:
+    - file://oy1XCLussvXNCuZz
+  text: |
+    **Transart 23**
+    13—28.09.23
+  url: http://transart.it/past-editions/23/de
+  archpage: [ ]
+- 
+  img:
+    - file://5LpNRfxsbgI5hOuS
+  text: |
+    **Transart 22**
+    07—24.09.22
+  url: http://transart.it/past-editions/22/de
+  archpage: [ ]
+- 
+  img:
+    - file://VHtyg7iB0dREmNXp
+  text: |
+    **Transart 21**
+    09—24.09.21
+  url: >
+    https://archive.transart.it/archiv/transart21/
+  archpage: [ ]
+- 
+  img:
+    - file://mi3x9x6Grc9X42YV
+  text: |
+    **Transart 20**
+    10—26.09.20
+  url: >
+    https://archive.transart.it/archiv/transart-20
+  archpage: [ ]
+- 
+  img:
+    - file://FpIkQjUi8FPztKzW
+  text: |
+    **Transart 19**
+    11—28.09.19
+  url: >
+    https://archive.transart.it/archiv/transart-19/
+  archpage: [ ]
+- 
+  img:
+    - file://ChLZCVZKkCMzKQAC
+  text: |
+    **Transart 18**
+    06—30.09.18
+  url: >
+    https://archive.transart.it/archiv/transart-17-copy/
+  archpage: [ ]
+- 
+  img:
+    - file://83vzDReGppoYw5fl
+  text: |
+    **Transart 17**
+    07—27.09.17
+  url: >
+    https://archive.transart.it/archiv/transart-17/
+  archpage: [ ]
+- 
+  img:
+    - file://GL40MuKUkbsHXCbU
+  text: |
+    **Transart 16**
+    07—25.09.16
+  url: >
+    https://archive.transart.it/archiv/transart-16/
+  archpage: [ ]
+- 
+  img:
+    - file://CVE1wudIn7HbCXwU
+  text: |
+    **Transart 15**
+    09—26.09.15
+  url: >
+    https://archive.transart.it/archiv/transart15/
+  archpage: [ ]
+- 
+  img:
+    - file://ZNNcQDEp3eKyI3gc
+  text: |
+    **Transart 14**
+    10—27.09.14
+  url: >
+    https://archive.transart.it/archiv/transart14/
+  archpage: [ ]
+- 
+  img:
+    - file://IYDQ9bbQ7SWzIBae
+  text: |
+    **Transart 13**
+    11—28.09.13
+  url: >
+    https://archive.transart.it/archiv/transart13/
+  archpage: [ ]
+- 
+  img:
+    - file://pFf6ygkbIz2EFcRn
+  text: |
+    **Transart 12**
+    12—29.09.12
+  url: >
+    https://archive.transart.it/archiv/transart12/
+  archpage: [ ]
+- 
+  img:
+    - file://uutmXLwWdhpIOYjI
+  text: |
+    **Transart 11**
+    14.09—1.10.11
+  url: >
+    https://archive.transart.it/archiv/transart11/
+  archpage: [ ]
+- 
+  img:
+    - file://3rBXobagw5pnm6oC
+  text: |
+    **Transart 10**
+    08.09—09.10.10
+  url: >
+    https://archive.transart.it/archiv/transart10/
+  archpage: [ ]
+- 
+  img:
+    - file://eic3UHzcLzVvo6Hd
+  text: |
+    **Transart 09**
+    11.09—01.10.09
+  url: >
+    https://archive.transart.it/archiv/transart09/
+  archpage: [ ]
+- 
+  img:
+    - file://wDUFNzuG2ANZDWrJ
+  text: |
+    **Transart 08**
+    10.09—11.10.08
+  url: >
+    https://archive.transart.it/archiv/transart08/
+  archpage: [ ]
+- 
+  img:
+    - file://2bEEXOYFJVw2xLl4
+  text: |
+    **Transart 07**
+    06—29.09.07
+  url: >
+    https://archive.transart.it/archiv/transart07/
+  archpage: [ ]
+- 
+  img:
+    - file://hKL5ZVEJKtQxt1Hr
+  text: |
+    **Transart 06**
+    08.09—07.10.06
+  url: >
+    https://archive.transart.it/archiv/transart06/
+  archpage: [ ]
+- 
+  img:
+    - file://FFdOoYv6T6aiJCv9
+  text: |
+    **Transart 05**
+    15.09—09.10.05
+  url: >
+    https://archive.transart.it/archiv/transart05/
+  archpage: [ ]
+- 
+  img:
+    - file://kiC7dBpF6DM2yKZe
+  text: |
+    **Transart 04**
+    11.09—02.10.04
+  url: >
+    https://archive.transart.it/archiv/transart04/
+  archpage: [ ]
+- 
+  img:
+    - file://SQGU9ydMsVeq2uQS
+  text: |
+    **Transart 03**
+    12.09—04.10.03
+  url: >
+    https://archive.transart.it/archiv/transart03/
+  archpage: [ ]
+- 
+  img:
+    - file://p9fi2JGm8rPPAb4c
+  text: |
+    **Transart 02**
+    13—28.09.02
+  url: >
+    https://archive.transart.it/archiv/transart02/
+  archpage: [ ]
+- 
+  img:
+    - file://1LwVBG4Imm8DMN6S
+  text: |
+    **Transart 01**
+    15—22.09.01
+  url: >
+    https://archive.transart.it/archiv/transart01/
+  archpage: [ ]

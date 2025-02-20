@@ -1,0 +1,9 @@
+Credittext: Photo © Luciano Paselli
+
+----
+
+Uuid: u46sS6xurzFHNshW
+
+----
+
+Template: img-with-credits

@@ -1,0 +1,13 @@
+Uuid: eTALpPsOYVmqE6oF
+
+----
+
+Template: logos
+
+----
+
+Sort: 1
+
+----
+
+Credittype: collaboration

@@ -1,0 +1,21 @@
+Title: Performances
+
+----
+
+Intro: This year’s **PERFORMANCES** encompass a host of events, from electronic and experimental music to theatre, performance, dance, and much more. This 2023 edition of the festival will bring Pussy Riot, Madame Nielsen, Florentina Holzinger, and many more to South Tyrol: check out the full program to discover all the events!
+
+----
+
+Contentblocks: [{"content":{"spacesize":"custom","custommargin":"-20px"},"id":"dabd4c39-a902-4e7e-9943-b61d0d44a4e9","isHidden":false,"type":"t23_space"},{"content":{"btntext":"Browse all PERFORMANCES","btnurl":"program/category/performances","marginbottom":"true"},"id":"6f117c1e-e1ed-40be-8010-10ceed182473","isHidden":false,"type":"t23_buttonBling"}]
+
+----
+
+Background: performances
+
+----
+
+Category: experiences
+
+----
+
+Uuid: FCeG0YVsVx4Be8r3

@@ -1,0 +1,9 @@
+Credittext: Photo © L.E.V. Festival
+
+----
+
+Uuid: XSVvEjMnybu3B5jL
+
+----
+
+Template: img-with-credits

@@ -1,0 +1,85 @@
+Title: MUTEK plays Transart
+
+----
+
+Subtitle: The Advanced Clubbing
+
+----
+
+Category: performances
+
+----
+
+Img: - file://cotdSYPtkJ6oZDHf
+
+----
+
+Archived: false
+
+----
+
+Description: The most anticipated evening of electronic music and digital art bears the signature of the renowned Quebec festival: Transart presents The Advanced Clubbing, curated by MUTEK Montréal's own Alain Mongeau. Four names from the international scene will share the stage. Opening the evening is RAMZi, composer and sound designer, who blends soundscapes, electronic instruments and visual creations in her highly personal artistic project. This musical journey continues with Myriam Bleau whose performance will combine electronic vibrations with sound, light and movement. The Fear Ratio, a duo of well-known names from the British techno scene—James Ruskin and Mark Broom—combines the passions of its two members in a unique mix of hip-hop, IDM and techno. Accompanying as we dance until the early hours of the morning is Ciel, with her unique blend of upbeat electro rhythms enhanced by lush ambient synths and gritty textures.
+
+----
+
+Startdate: 2024-09-14
+
+----
+
+Hasenddate: false
+
+----
+
+Enddate: 
+
+----
+
+Starttime: 23:00:00
+
+----
+
+Hasendtime: false
+
+----
+
+Endtime: 
+
+----
+
+Place: locations/park-edison
+
+----
+
+Eventtags: clubbing, music
+
+----
+
+Ticketbutton: true
+
+----
+
+Tickettext: 
+
+----
+
+Ticketprice: 15
+
+----
+
+Ticketlink: 
+
+----
+
+Detailsitems: 
+
+----
+
+Related: 
+
+----
+
+Past: false
+
+----
+
+Uuid: YGrLtJFxbds9hdig

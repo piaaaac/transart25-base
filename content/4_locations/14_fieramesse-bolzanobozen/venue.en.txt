@@ -1,0 +1,33 @@
+Title: FieraMesse BolzanoBozen
+
+----
+
+Img: - file://bOD6eG7UkF1wiOGE
+
+----
+
+Description: 
+
+----
+
+Address: Messeplatz 1 Piazza Fiera
+
+----
+
+City: Bozen / Bolzano
+
+----
+
+Lat: 46.472465762074
+
+----
+
+Lon: 11.326822447478
+
+----
+
+Mapslink: https://goo.gl/maps/A7hkFQQThH3pWhMq5
+
+----
+
+Uuid: SXxSptX4PPef3VEw

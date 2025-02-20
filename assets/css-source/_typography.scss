@@ -1,0 +1,111 @@
+@charset "UTF-8";
+
+// ------------------------------------------------------------------------
+// Fonts
+// ------------------------------------------------------------------------
+
+@font-face {
+  font-family: "Degular-Display";
+  font-weight: 400;
+  src: url("../fonts/Degular_Display-web/Degular_Display-Regular.woff") format("woff2"),
+       url("../fonts/Degular_Display-web/Degular_Display-Regular.woff2") format("woff");
+}
+
+@font-face {
+  font-family: "Degular-Display";
+  font-weight: 900;
+  src: url("../fonts/Degular_Display-web/Degular_Display-Black.woff") format("woff2"),
+       url("../fonts/Degular_Display-web/Degular_Display-Black.woff2") format("woff");
+}
+
+@font-face {
+  font-family: "Degular-Text";
+  font-weight: 400;
+  src: url("../fonts/Degular_Text-web/Degular_Text-Regular.woff") format("woff2"),
+       url("../fonts/Degular_Text-web/Degular_Text-Regular.woff2") format("woff");
+}
+
+@font-face {
+  font-family: "Degular-Text";
+  font-weight: 900;
+  src: url("../fonts/Degular_Text-web/Degular_Text-Black.woff") format("woff2"),
+       url("../fonts/Degular_Text-web/Degular_Text-Black.woff2") format("woff");
+}
+
+$font-text: "Degular-Text", sans-serif;
+$font-disp: "Degular-Display", sans-serif;
+
+@mixin font-style($font-fam, $xs, $sm, $md, $lg, $xl, $letter-sp, $line-h, $weight, $style){
+  font-family: $font-fam;
+  font-size: $xs;
+  letter-spacing: $letter-sp;
+  line-height: $line-h;
+  font-weight: $weight;
+  font-style: $style;
+  font-stretch: normal;
+  @include media-breakpoint-up(sm) { font-size: $sm; }
+  @include media-breakpoint-up(md) { font-size: $md; }
+  @include media-breakpoint-up(lg) { font-size: $lg; }
+  @include media-breakpoint-up(xl) { font-size: $xl; }  
+}
+
+// -------------------------------------------------------- xs --- sm --- md --- lg --- xl ---- lsp ---- lh ---- w --- style
+
+// @mixin font-s     { @include font-style($font-text,    17px,  17px,  17px,  17px,  17px,   0,       1.3em,  400,  normal); }
+
+@mixin font-footer  { @include font-style($font-disp,    40px,  40px,  52px,  52px,  52px,   0,       0.9em,  400,  normal); }
+@mixin font-xl      { @include font-style($font-disp,    50px,  50px,  72px,  72px,  72px,   0,       0.9em,  400,  normal); }
+@mixin font-l       { @include font-style($font-disp,    28px,  28px,  42px,  42px,  42px,   0,       1.0em,  400,  normal); }
+@mixin font-m       { @include font-style($font-disp,    22px,  22px,  27px,  27px,  27px,   0,       1.1em,  400,  normal); }
+@mixin font-s       { @include font-style($font-text,    16px,  16px,  17px,  17px,  17px,   0,       1.05em, 400,  normal); }
+@mixin font-xs      { @include font-style($font-text,     9px,  10px,  11px,  14px,  14px,   0,       1.05em, 400,  normal); }
+@mixin font-xxs     { @include font-style($font-text,     8px,   8px,   9px,  14px,  14px,   0,       1.05em, 400,  normal); }
+
+.font-footer  { @include font-footer; }
+.font-xl      { @include font-xl; }
+.font-l       { @include font-l; }
+.font-m       { @include font-m; }
+.font-s       { @include font-s; }
+.font-xs      { @include font-xs; }
+.font-xxs     { @include font-xxs; }
+
+// -----------------------------------------------------------------------------
+// Elements
+// -----------------------------------------------------------------------------
+
+p { 
+  @include font-m;
+  // margin-bottom: 1em;
+}
+
+.kt-small {
+  p { 
+    @include font-s;
+    margin-bottom: 0.3em;
+  }
+}
+
+h1 { @include font-xl; padding-bottom: 10px; }
+h2 { @include font-l; }
+h3 { @include font-m; }
+h4 { @include font-m; }
+h5 { @include font-s; font-weight: 900; }
+h6 { @include font-s; font-weight: 900; }
+
+ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+  margin-bottom: 1em;
+  @include font-m;
+  li {
+    padding-left: 1.5em;
+    // text-indent: -1em;
+    position: relative;
+    &:before {
+      position: absolute;
+      content: "→";
+      left: 0;
+    }
+  }
+}
