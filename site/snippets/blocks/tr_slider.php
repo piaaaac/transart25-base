@@ -1,14 +1,4 @@
 <?php
-
-/**
- * @param $imgs                   - Kirby Files
- * @param $aspectRatioHorizontal  - Float
- * @param $aspectRatioVertical    - Float
- * @param $width                  - String "full" | "grid100" | "grid66" | "grid50"
- * @param $mode                   - String "auto3" | "auto5" | "manual"
- * */
-
-// Get variables values from block
 $widthName = $block->width()->value();
 $aspectHori = $block->aspectRatioHorizontal()->toFloat();
 $aspectVert = $block->aspectRatioVertical()->toFloat();
@@ -39,7 +29,6 @@ $debug = [
   "widthName" => $widthName,
   "mode" => $mode,
 ];
-// kill($debug);
 
 $rand = rand(0, 20000);
 $container = false;

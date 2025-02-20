@@ -1,9 +1,5 @@
 @charset "UTF-8";
 
-// -----------------------------------------------------------------------------
-// Variables
-// -----------------------------------------------------------------------------
-
 $button-h: 36px;
 $button-h-s: 36px;
 $button-h-l: 46px;
@@ -12,40 +8,16 @@ $menu-h: 60px;
 $border-radius: 5px;
 $space: 20px;
 $max-w: 1320px;
-
 $yellow24: #dedc00;
 $bg-general: "../images/bg24/bg24-General.png";
 $bg-experiences: "../images/bg24/bg24-Experiences.png";
 $bg-performances: "../images/bg24/bg24-Performances.png";
-
-$green23: #4dffb7;
-$lilla23: #bd9ef9;
-$cyan23: #4dffd3;
 $dark: #1d1e1f;
 
-$green23-dark1: #32eea2;
-$lilla23-dark1: #a786e7;
-
-// inverted colors work mainly with css variables.
-// there's still a body data param for special cases like the page opening.
 body {
   position: relative;
   --color24-accent: #{$yellow24};
-  --color23-one: #{$green23};
-  --color23-two: #{$yellow24};
-  --color23-one-dark1: #{$green23-dark1};
-  --color23-two-dark1: #{$lilla23-dark1};
-  // &[data-inverted-colors="yes"] {
-  //   --color23-one: #{$lilla23};
-  //   --color23-two: #{$green23};
-  //   --color23-one-dark1: #{$lilla23-dark1};
-  //   --color23-two-dark1: #{$green23-dark1};
-  // }
 }
-
-// -----------------------------------------------------------------------------
-// External files import
-// -----------------------------------------------------------------------------
 
 @import "bootstrap-scss/_functions";
 @import "bootstrap-scss/_variables";
@@ -66,10 +38,6 @@ $ka-cookie-btn-color: black !default;
 $ka-cookie-position: bottom-right !default; // top-left, top-right, bottom-left, bottom-right
 @import "../../site/plugins/cookie/cookie.scss";
 
-// -----------------------------------------------------------------------------
-// Utilities
-// -----------------------------------------------------------------------------
-
 .color-white {
   color: white;
 }
@@ -86,13 +54,13 @@ $ka-cookie-position: bottom-right !default; // top-left, top-right, bottom-left,
   background-color: black;
 }
 .bg-green {
-  background-color: var(--color23-one);
+  background-color: #666;
 }
 .bg-lilla {
-  background-color: $lilla23;
+  background-color: #777;
 }
 .hover-green:hover {
-  color: $green23;
+  color: $yellow24;
 }
 .no-u {
   text-decoration: none;
@@ -161,23 +129,7 @@ $ka-cookie-position: bottom-right !default; // top-left, top-right, bottom-left,
   height: #{$space * 8};
 }
 
-// -----------------------------------------------------------------------------
-// ICONS
-// -----------------------------------------------------------------------------
-
-// span.i-nearr::before {
-//   content: url("../images/icon-nearr.svg");
-//   width: 1.7em;
-// }
-
-// -----------------------------------------------------------------------------
-// General tags & classes
-// -----------------------------------------------------------------------------
-
 * {
-  // text-rendering: auto;
-  // text-rendering: optimizeSpeed;
-  // text-rendering: optimizeLegibility;
   text-rendering: geometricPrecision; // OK on chrome
 }
 
@@ -237,14 +189,9 @@ i.fontello {
   font-family: fontello;
   font-style: normal;
   font-weight: normal;
-  // speak: never;
   position: relative;
   top: 0.1em;
 }
-
-// -----------------------------------------------------------------------------
-// BLOCKS & KIRBY TEXTS
-// -----------------------------------------------------------------------------
 
 .page-body {
   position: relative;
@@ -319,7 +266,6 @@ i.fontello {
           }
         }
         .content {
-          // padding-top: 10px;
           @include font-s;
           p {
             @include font-s;
@@ -361,12 +307,7 @@ i.fontello {
   .shwa {
     position: relative;
     display: inline-block;
-    // V2
     transform: rotate(180deg) translateY(-0.23em);
-
-    // V1
-    // transform: rotate(180deg);
-    // top: 0.27em;
   }
 }
 
@@ -376,10 +317,6 @@ i.fontello {
   display: inline-block;
   top: 0.22em;
 }
-
-// -----------------------------------------------------------------------------
-// REUSABLE PIECES
-// -----------------------------------------------------------------------------
 
 .button {
   display: inline-flex;
@@ -520,8 +457,6 @@ i.fontello {
   }
 }
 
-// ----------------
-
 .program-filters {
   margin-left: -10px;
   margin-right: -10px;
@@ -568,16 +503,11 @@ i.fontello {
       background-color: rgba(0, 0, 0, 0.1);
     }
   }
-  // & + .radio-group {
-  //   margin-left: 20px;
-  // }
 }
 
 .button.tag {
-  // &::before { content: "#"; }
   text-transform: none;
   margin-bottom: 10px;
-  // font-weight: 400;
 }
 
 .btn-select {
@@ -649,8 +579,6 @@ i.fontello {
   }
 }
 
-// ----------------
-
 @mixin category-label {
   text-transform: capitalize;
   text-transform: uppercase;
@@ -675,7 +603,6 @@ i.fontello {
   margin-bottom: 20px;
 
   .image {
-    /*DEBUG*/ //border: 1px solid red;
     position: relative;
     background-size: cover;
     background-position: center center;
@@ -688,12 +615,6 @@ i.fontello {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    // .titles {
-    //   /*DEBUG*/ //border: 1px solid blue;
-    // }
-    // .info {
-    //   /*DEBUG*/ //border: 1px solid cyan;
-    // }
     background-color: black;
     color: white;
     padding: 12px;
@@ -701,7 +622,6 @@ i.fontello {
     .event-title {
       font-weight: 900;
     }
-    // .event-subtitle { }
   }
 
   &[data-type="program-grid"] {
@@ -743,7 +663,6 @@ i.fontello {
     .texts .titles {
       white-space: nowrap;
       overflow: hidden;
-      // text-overflow: clip;
       position: relative;
       flex-grow: 1;
       &::after {
@@ -777,10 +696,6 @@ i.fontello {
           margin-left: 0 !important;
           margin-right: 0 !important;
           width: 100%;
-          // white-space: normal;
-          // &::after {
-          //   content: none;
-          // }
         }
         .info {
           margin-top: 20px;
@@ -799,9 +714,6 @@ i.fontello {
       .texts .info .arrow-next {
         display: none;
       }
-      // .texts .info .arrow-prev {
-      //   flex-order: 0;
-      // }
     }
     &[data-type="nav-next"] {
       .texts .titles {
@@ -915,9 +827,6 @@ i.fontello {
       @include details-item-style;
       &.info,
       &.star {
-        // border: 1px solid black;
-        // border-radius: $border-radius;
-        // padding: 8px 11px 11px 11px;
         .title {
           margin-left: -0.2em;
         }
@@ -934,7 +843,6 @@ i.fontello {
         .title::before {
           content: "★  ";
         }
-        // display: inline-block;
       }
     }
   }
@@ -1096,21 +1004,10 @@ img.full-w {
   }
 }
 
-// -----------------------------------------------------------------------------
 // MARQUEE
-// https://codepen.io/girish/pen/dgWqBr
-// https://stackoverflow.com/questions/45847392/pure-css-continuous-horizontal-scroll-without-break
-// https://tympanus.net/codrops/2020/03/31/css-only-marquee-effect/
-// -----------------------------------------------------------------------------
-
-// v5 -------------------------------
-
 .marquee-v5 {
   z-index: 1;
   position: relative;
-
-  // &.home { color: var(--color23-two); }
-
   .marquee-wrapper {
     @include font-footer;
     span {
@@ -1126,14 +1023,11 @@ img.full-w {
     }
     position: relative;
   }
-
   --marquee-width: 100vw;
   --offset: 20vw;
   --move-initial: calc(-25% + var(--offset));
   --move-final: calc(-50% + var(--offset));
   counter-reset: menu;
-
-  /* Make sure 3 items are visible in the viewport by setting suitable font size. */
 
   .marquee {
     position: absolute;
@@ -1186,10 +1080,6 @@ img.full-w {
 
 $marqueetime: 26s;
 
-// -----------------------------------------------------------------------------
-// SPECIFIC
-// -----------------------------------------------------------------------------
-
 #body-background {
   position: absolute;
   width: 100%;
@@ -1241,21 +1131,13 @@ nav#menu-header {
     background-position: top left;
     opacity: 0;
     transition: opacity 800ms;
-    // @at-root body[data-template*="home"][data-home-scrolled-by="yes"] & {
     @at-root body[data-home-scrolled-by="yes"] & {
       opacity: 1;
     }
-    // @at-root body:not([data-template*="home"])[data-scrolled-by-threshold="yes"]
     @at-root body[data-scrolled-by-threshold="yes"] & {
       opacity: 1;
     }
   }
-
-  // @at-root body:not([data-home-scrolled-by="yes"]):not(.menu-xs-open) & {
-  //   opacity: 0;
-  //   pointer-events: none;
-  //   transition: background-color 200ms, padding 200ms, opacity 200ms;
-  // }
 }
 
 .menu-wrapper {
@@ -1334,11 +1216,7 @@ section#submenu {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-
-    // ------------------------------
-    // !!! try if this makes any mess
     overflow-x: scroll;
-    // ------------------------------
 
     .item {
       @include font-s;
@@ -1368,14 +1246,8 @@ section#submenu {
       justify-content: space-between;
       .mob-texts {
         position: relative;
-        // flex-shrink: 1;
-        // max-width: 100%;
         overflow: hidden;
-        // text-overflow: clip;
-        // text-overflow: ellipsis;
         white-space: nowrap;
-        // h5,
-        // span {}
       }
       .mob-button {
         position: relative;
@@ -1400,7 +1272,6 @@ section#submenu {
 }
 
 section.page-intro {
-  // background-color: black;
   position: relative;
   color: black;
   padding-top: #{$space * 2};
@@ -1448,10 +1319,6 @@ section.opening-page {
   }
 }
 
-// ------------------------------------------------------------------------
-// PAGE :: MAP
-// ------------------------------------------------------------------------
-
 #map.mapbox {
   height: 80vh;
   margin-bottom: 120px;
@@ -1461,7 +1328,6 @@ section.opening-page {
     background-size: cover;
     width: 35px;
     height: 44px;
-    // border-radius: 50%;
     cursor: pointer;
   }
 
@@ -1471,10 +1337,6 @@ section.opening-page {
       max-width: 300px !important;
     }
   }
-
-  // .mapboxgl-popup-content {
-  //   text-align: center;
-  // }
 
   .mapboxgl-popup-anchor-right,
   .mapboxgl-popup-anchor-bottom,
@@ -1569,15 +1431,8 @@ section.opening-page {
     button.mapboxgl-ctrl-zoom-out {
       border-top: 1px solid rgba(0, 0, 0, 0.3);
     }
-    // .mapboxgl-ctrl-icon {
-    // opacity: 0.5;
-    // }
   }
 }
-
-// ------------------------------------------------------------------------
-// PAGE :: PROGRAM
-// ------------------------------------------------------------------------
 
 .event-list-item {
   position: relative;
@@ -1587,11 +1442,6 @@ section.opening-page {
   }
   padding-top: 25px;
   padding-bottom: 25px;
-  // margin: 20px 0;
-  // transition: background-color 200ms;
-  // @include media-breakpoint-down(sm) {
-  //   padding: 5px 10px 10px 10px; margin: 10px -10px;
-  // }
   &:hover {
     color: var(--color24-accent);
     .date,
@@ -1638,10 +1488,6 @@ section.opening-page {
     opacity: 0.4;
   }
 }
-
-// ------------------------------------------------------------------------
-// PAGE :: EVENT
-// ------------------------------------------------------------------------
 
 .event-body {
   position: relative;
@@ -1693,34 +1539,24 @@ section.opening-page {
     @include media-breakpoint-up(xl) {
       width: 50%;
     }
-
-    // .green-details - general
   }
 }
 
 table.event-info-table {
   width: 100%;
   border-spacing: 0;
-  // border-bottom: 0.5px solid rgba(0,0,0, 0.1);
   td {
     border-top: 0.5px solid rgba(0, 0, 0, 0.1);
     padding: 10px 0 10px 0;
     vertical-align: top;
     &.content {
-      width: 100%; // <<<<<<<<<< careful, check it doesn't mess things up!
+      width: 100%;
     }
   }
 }
-// div.event-info-table-xs {
-//   // ...
-// }
 
 .logos-xs {
   font-size: 0;
-  // border-top: 0.5px solid rgba(0,0,0, 0.1);
-  // border-bottom: 0.5px solid rgba(0,0,0, 0.1);
-  // padding: 8px 0 15px;
-  // margin-bottom: $space;
   .event-logo {
     margin-right: 15px;
   }
@@ -1733,23 +1569,18 @@ $lh: 80px;
   flex-flow: row wrap;
   .event-logo {
     position: relative;
-    // background-color: #f4f4f4;
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    // height: $lh;
     max-height: $lh;
-    // width: 90px;
     max-width: 100px;
     line-height: 0;
     margin-top: 10px;
     margin-right: 20px;
-    // padding: 15px;
     overflow: hidden;
     img {
       width: 100%;
       max-height: $lh;
-      // opacity: 0.5;
       mix-blend-mode: multiply;
     }
   }
@@ -1780,7 +1611,6 @@ $lh: 80px;
   @include media-breakpoint-up(lg) {
     padding: #{$space * 1} #{$space * 2};
   }
-  // @include media-breakpoint-up(xl) { width: 50%; }
 }
 
 #back-to-program {
@@ -1811,10 +1641,6 @@ $lh: 80px;
   }
 }
 
-// ------------------------------------------------------------------------
-// PAGE :: SUPPORT
-// ------------------------------------------------------------------------
-
 $logo-size: 120px;
 figure.support-logo {
   width: $logo-size;
@@ -1841,26 +1667,12 @@ figure.support-logo {
   }
 }
 
-// ------------------------------------------------------------------------
-// PAGE :: HOME
-// ------------------------------------------------------------------------
-
 #opening-home-height {
-  // height: calc(120vw - #{$menu-h});
-  // @include media-breakpoint-up(sm) { height: calc(70vw - #{$menu-h}); }
-  // @include media-breakpoint-up(lg) { height: calc(50vw - #{$menu-h}); }
-  // @include media-breakpoint-up(xl) { height: calc(40vw - #{$menu-h}); }
   height: calc(85vh - #{$menu-h});
 }
-// body[data-template='home'],
-// body[data-template='home-post'],
-// body[data-template='program-post'] {
-//   .page-intro, .page-body { background-color: black; position: relative; }
-// }
 
 #opening-home-videos {
   position: relative;
-  // padding-top: $menu-h;
   .vid-cont {
     position: relative;
   }
@@ -1950,10 +1762,6 @@ figure.support-logo {
   }
 
   .content {
-    // height: 120vw;
-    // @include media-breakpoint-up(sm) { height: 70vw; }
-    // @include media-breakpoint-up(lg) { height: 50vw; }
-    // @include media-breakpoint-up(xl) { height: 40vw; }
     height: 85vh;
     z-index: 3;
     position: relative;
@@ -1998,10 +1806,6 @@ figure.support-logo {
     justify-content: flex-end;
   }
 }
-
-// ------------------------------------------------------------------------
-// Home Highlights
-// ------------------------------------------------------------------------
 
 .hp-highlights {
   .items {
@@ -2098,10 +1902,6 @@ figure.support-logo {
   }
 }
 
-// ------------------------------------------------------------------------
-// Layout
-// ------------------------------------------------------------------------
-
 .container-fluid {
   max-width: $max-w;
   margin-left: auto;
@@ -2119,11 +1919,6 @@ figure.support-logo {
   }
 }
 
-// -----------------------------------------------------------------------------
-// Cookie banner plugin
-// https://github.com/schnti/kirby3-cookie
-// -----------------------------------------------------------------------------
-
 #cookie_banner-wrapper {
   .cookie_container {
     border-radius: $border-radius;
@@ -2138,10 +1933,6 @@ figure.support-logo {
     border-radius: $border-radius;
   }
 }
-
-// -----------------------------------------------------------------------------
-// Mailchimp
-// -----------------------------------------------------------------------------
 
 #tr-modal-newsletter {
   #mc_embed_signup {
@@ -2159,41 +1950,3 @@ input[type="email"] {
   padding: 0 10px;
   margin-top: 5px;
 }
-
-// -----------------------------------------------------------------------------
-// INVERTED COLORS
-// -----------------------------------------------------------------------------
-
-// body[data-colors='invert'] {
-//   background-color: $lilla23;
-//   main { background-color: $lilla23; }
-
-//   section.page-intro {
-//     .kt, .kt p {
-//       em, strong {
-//         color: $green23;
-//       }
-//     }
-//   }
-
-//   section#footer {
-//     background-color: $lilla23;
-//   }
-
-// }
-
-// -----------------------------------------------------------------------------
-// BOOTSTRAP BREAKPOINTS
-// -----------------------------------------------------------------------------
-
-// xs ---                 Portrait phones
-// sm ---  576px and up   Small devices (landscape phones)
-// md ---  768px and up   Medium devices (tablets)
-// lg ---  992px and up   Large devices (desktops)
-// xl --- 1200px and up   Extra large devices (large desktops)
-
-// No media query necessary for xs breakpoint as it's effectively `@media (min-width: 0) { ... }`
-// @include media-breakpoint-up(sm) { ... }
-// @include media-breakpoint-only(md) { ... }
-// @include media-breakpoint-between(md, xl) { ... }
-// @include media-breakpoint-down(lg) { ... }

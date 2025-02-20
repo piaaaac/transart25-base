@@ -1,19 +1,7 @@
 <?php
-/**
- * 
- * @param $view             - string (grid|list)
- * @param $category         - string (experiences|performances)
- * @param $tag              - array of strings
- * @param $tagsForButtons   - array of strings to create tag buttons
- * 
- * */
 
-
-// echo "<pre class='font-s'>";
-// echo $tag;
-// kill($tagsForButtons);
-
-function composeUrl ($_view, $_category, $_tag) {
+function composeUrl($_view, $_category, $_tag)
+{
   $url = page("program")->url();
   if ($_view && $_view != "") {
     $url .= "/view:$_view";
@@ -75,10 +63,8 @@ function composeUrl ($_view, $_category, $_tag) {
 </div>
 
 <script>
-  
-function toggleDropdown () {
-  var el = document.getElementById("btn-select-1")
-  el.classList.toggle("open");
-}
-
+  function toggleDropdown() {
+    var el = document.getElementById("btn-select-1")
+    el.classList.toggle("open");
+  }
 </script>
