@@ -18,15 +18,79 @@ City: Bruneck / Brunico
 
 ----
 
-Lon: 11.942179840761
-
-----
-
 Lat: 46.796852889057
 
 ----
 
+Lon: 11.942179840761
+
+----
+
 Mapslink: https://goo.gl/maps/hLLdSgbojWAtyPBj6
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
 
 ----
 

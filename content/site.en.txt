@@ -60,12 +60,6 @@ Menuitems:
   menutextit: Experiences
   menutextde: Experiences
   active: 'false'
-- 
-  menupage: [ ]
-  menutexten: Archive 22
-  menutextit: Archivio 22
-  menutextde: Archiv 22
-  active: 'false'
 
 ----
 
@@ -74,3 +68,55 @@ Socialdescription: Festival of contemporary culture in South Tyrol
 ----
 
 Socialimage: - file://DY3oc8gUtjsiXs7o
+
+----
+
+Metatemplate: Transart — {{title}}
+
+----
+
+Metadescription: Festival of contemporary culture
+
+----
+
+Ogtemplate: Transart
+
+----
+
+Ogdescription: Festival of contemporary culture
+
+----
+
+Ogsitename: Transart
+
+----
+
+Ogimage: - file://kso4Z0ENq3f4lkSK
+
+----
+
+Twittercardtype: summary
+
+----
+
+Robotsindex: true
+
+----
+
+Robotsfollow: true
+
+----
+
+Robotsarchive: true
+
+----
+
+Robotsimageindex: true
+
+----
+
+Robotssnippet: false
+
+----
+
+Socialmediaaccounts: 

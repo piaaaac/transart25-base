@@ -18,15 +18,79 @@ City: Bozen / Bolzano
 
 ----
 
-Lon: 11.324754737793
-
-----
-
 Lat: 46.478305937544
 
 ----
 
+Lon: 11.324754737793
+
+----
+
 Mapslink: https://goo.gl/maps/ELqBmNL3E1brguqr9
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
 
 ----
 

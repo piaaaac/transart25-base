@@ -1,2 +1,5 @@
 title: Default Page
-extends: layouts/default
+
+tabs:
+  content: tabs/default
+  seo: seo/page

@@ -1,15 +1,13 @@
 tabs:
-
   tab_site:
     label: Content
     columns:
       - 1/1:
         sections:
-
           # meta:
           #   type: fields
           #   fields:
-              
+
           pages:
             type: pages
             create: default
@@ -19,11 +17,9 @@ tabs:
     columns:
       - 1/1:
         sections:
-
           meta2:
             type: fields
             fields:
-
               menuItems:
                 type: structure
                 label: Menu items
@@ -48,17 +44,16 @@ tabs:
                     type: text
                   active:
                     type: toggle
-                    
 
               # cookieBanner:
               #   label: Cookie banner text
               #   type: textarea
               #   width: 1/2
-              
+
               socialDescription:
                 type: textarea
                 width: 1/2
-              
+
               socialImage:
                 type: files
                 min: 1
@@ -66,4 +61,5 @@ tabs:
                 help: "1200x630 px"
                 width: 1/2
                 translate: false
-              
+
+  seo: seo/site

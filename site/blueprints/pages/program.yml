@@ -1,13 +1,16 @@
 title: Program
-sections:
 
-  events:
-    type: pages
-    create: event
-    layout: cards
-    # sortBy: startDate
-    info: "{{ page.startDate.toDate('d.m') }}"
-    limit: 100
-    image:
-      cover: true
-      query: page.img.toFile
+tabs:
+  content:
+    sections:
+      events:
+        type: pages
+        create: event
+        layout: cards
+        info: "{{ page.startDate.toDate('d.m') }}"
+        limit: 100
+        image:
+          cover: true
+          query: page.img.toFile
+
+  seo: seo/page

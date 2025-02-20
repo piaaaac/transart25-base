@@ -1,15 +1,17 @@
 title: Default Subpage
-extends: layouts/default
 
-columns:
+tabs:
+  content:
+    extends: tabs/default
 
-  main:
-    sections:
-      meta:
-        fields:
-          intro: false
+    columns:
+      main:
+        sections:
+          meta:
+            fields:
+              intro: false
 
-  sidebar:
-    sections:
-      meta2: false
-      pages: false
+      sidebar:
+        sections:
+          meta2: false
+          pages: false

@@ -2,74 +2,34 @@
 
 return [
 
-  // --------------------------------------------------------------
-  // User defined
-  // --------------------------------------------------------------
-
+  // Custom
   "assets" => [
-    "version" => "0.0.2",
+    "version" => "1.0.0",
   ],
 
-  // --------------------------------------------------------------
   // Kirby
-  // --------------------------------------------------------------
-
-  'panel' => [
-    'css' => 'assets/css/custom-panel.css',
-  ],
-
+  // 'panel' => [
+  //   'css' => 'assets/css/custom-panel.css',
+  // ],
   "languages" => true,
-
   "routes" => require_once 'routes.php',
-
-  // "hooks" => require_once "hooks.php", // currently []
-
   "thumbs" => [
     "presets" => [
       "default" => ["width" => 1024, "quality" => 80],
     ],
   ],
 
-  // --------------------------------------------------------------
-  // vendor plugins
-  // --------------------------------------------------------------
-
+  // Vendor plugins
   "schnti.cookie.link" => "privacy",
-
-  "pedroborges.meta-tags.default" => function ($page, $site) {
-
-    // default
-    $socialTitle = $site->title();
-    $socialDesc = $site->description();
-
-    $socialImgUrl = "";
-    if ($site->socialImage()->isNotEmpty()) {
-      $socialImgUrl = $site->socialImage()->toFile()->url();
-    }
-
-    return [
-      'title'         => $site->title() . " | " . $page->title(),
-      'meta' => [
-        'description' => $socialDesc,
-      ],
-      'link' => [
-        'canonical'   => $page->url()
-      ],
-      'og' => [
-        'type'        => 'website',
-        'title'       => $socialTitle,
-        'site_name'   => $socialTitle,
-        'image'       => $socialImgUrl,
-        'url'         => $page->url(),
-        'description' => $socialDesc,
-      ],
-      'twitter' => [
-        'card' => 'summary_large_image', // summary - summary_large_image
-        'site' => "",
-        'title' => $socialTitle,
-        'namespace:image' => $socialImgUrl,
-      ],
-    ];
-  }
+  'tobimori.seo.canonicalBase' => 'https://www.transart.it',
+  'tobimori.seo.sitemap.active' => true,
+  'tobimori.seo.robots' => [
+    'active' => true,
+    'content' => [
+      'facebookexternalhit' => ['Disallow' => []],
+      'Twitterbot' => ['Disallow' => []],
+      'Googlebot' => ['Disallow' => ["/nogooglebot/"]],
+    ],
+  ],
 
 ];

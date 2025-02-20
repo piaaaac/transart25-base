@@ -18,15 +18,79 @@ City: Ritten / Renon
 
 ----
 
-Lon: 11.39190696181
-
-----
-
 Lat: 46.52432196855
 
 ----
 
+Lon: 11.39190696181
+
+----
+
 Mapslink: https://goo.gl/maps/hHPHp8rMS2SgLAs36
+
+----
+
+Metatitle: 
+
+----
+
+Metatemplate: 
+
+----
+
+Usetitletemplate: true
+
+----
+
+Metadescription: 
+
+----
+
+Ogtemplate: 
+
+----
+
+Useogtemplate: true
+
+----
+
+Ogdescription: 
+
+----
+
+Ogimage: 
+
+----
+
+Twittercardtype: 
+
+----
+
+Twitterauthor: 
+
+----
+
+Robotsindex: default
+
+----
+
+Robotsfollow: default
+
+----
+
+Robotsarchive: default
+
+----
+
+Robotsimageindex: default
+
+----
+
+Robotssnippet: default
+
+----
+
+Metainherit: 
 
 ----
 
